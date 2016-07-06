@@ -1,5 +1,6 @@
 var express = require('express');
 var jsonfile = require('jsonfile');
+var _ = require('lodash');
 var fs = require('fs');
 var router = express.Router();
 
@@ -46,6 +47,10 @@ router.get('/countries/:code', function (req, res) {
       res.send(404);
       return;
     }
+
+    _.forEach(content.administrative_area_level_1s, function (a) {
+      delete a.administrative_area_level_2s;
+    });
 
     res.send(200, content);
   });
