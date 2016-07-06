@@ -1,0 +1,6069 @@
+{
+  "coords": {
+    "lat": 34.9249653,
+    "lng": 38.9597594
+  },
+  "name": "Türkiye",
+  "int_name": "Turkey",
+  "name:en": "Turkey",
+  "administrative_area_level_1s": {
+    "Ankara": {
+      "coords": {
+        "lat": 32.853758,
+        "lng": 39.9220732
+      },
+      "administrative_area_level_2s": {
+        "Kızılcahamam": {
+          "coords": {
+            "lat": 32.6500174,
+            "lng": 40.4727631
+          }
+        },
+        "Elmadağ": {
+          "coords": {
+            "lat": 33.2379331,
+            "lng": 39.9156085
+          }
+        },
+        "Yenimahalle": {
+          "coords": {
+            "lat": 32.7611428,
+            "lng": 39.989327
+          }
+        },
+        "Akyurt": {
+          "coords": {
+            "lat": 33.0836938,
+            "lng": 40.1297797
+          }
+        },
+        "Pursaklar": {
+          "coords": {
+            "lat": 32.9042614,
+            "lng": 40.0399367
+          }
+        },
+        "Balâ": {
+          "coords": {
+            "lat": 33.123549,
+            "lng": 39.5557216
+          }
+        },
+        "Haymana": {
+          "coords": {
+            "lat": 32.5004065,
+            "lng": 39.4342821
+          }
+        },
+        "Şereflikoçhisar": {
+          "coords": {
+            "lat": 33.5415722,
+            "lng": 38.9400595
+          }
+        },
+        "Kalecik": {
+          "coords": {
+            "lat": 33.412733,
+            "lng": 40.103903
+          }
+        },
+        "Nallıhan": {
+          "coords": {
+            "lat": 31.3512768,
+            "lng": 40.1872424
+          }
+        },
+        "Beypazarı": {
+          "coords": {
+            "lat": 31.9207632,
+            "lng": 40.1661927
+          }
+        },
+        "Ayaş": {
+          "coords": {
+            "lat": 32.3332271,
+            "lng": 40.0148558
+          }
+        },
+        "Güdül": {
+          "coords": {
+            "lat": 32.2439719,
+            "lng": 40.2094925
+          }
+        },
+        "Çamlıdere": {
+          "coords": {
+            "lat": 32.4758257,
+            "lng": 40.4914804
+          }
+        },
+        "Gölbaşı": {
+          "coords": {
+            "lat": 32.8080783,
+            "lng": 39.7945704
+          }
+        },
+        "Çubuk": {
+          "coords": {
+            "lat": 33.0280652,
+            "lng": 40.2392536
+          }
+        },
+        "Etimesgut": {
+          "coords": {
+            "lat": 32.6601728,
+            "lng": 39.947132
+          }
+        },
+        "Evren": {
+          "coords": {
+            "lat": 33.8038777,
+            "lng": 39.0232324
+          }
+        },
+        "Kazan": {
+          "coords": {
+            "lat": 32.6827398,
+            "lng": 40.2049092
+          }
+        },
+        "Keçiören": {
+          "coords": {
+            "lat": 32.8518043,
+            "lng": 39.9907952
+          }
+        },
+        "Mamak": {
+          "coords": {
+            "lat": 32.8938826,
+            "lng": 39.9283433
+          }
+        },
+        "Altındağ": {
+          "coords": {
+            "lat": 32.916853,
+            "lng": 39.9605104
+          }
+        },
+        "Çankaya": {
+          "coords": {
+            "lat": 32.857265,
+            "lng": 39.9088783
+          }
+        },
+        "Sincan": {
+          "coords": {
+            "lat": 32.5888739,
+            "lng": 39.9633448
+          }
+        },
+        "Polatlı": {
+          "coords": {
+            "lat": 32.1440871,
+            "lng": 39.579001
+          }
+        }
+      }
+    },
+    "Edirne": {
+      "coords": {
+        "lat": 26.5587225,
+        "lng": 41.6759327
+      },
+      "administrative_area_level_2s": {
+        "Havsa": {
+          "coords": {
+            "lat": 26.8227959,
+            "lng": 41.5494644
+          }
+        },
+        "Keşan": {
+          "coords": {
+            "lat": 26.6316788,
+            "lng": 40.8554606
+          }
+        },
+        "İpsala": {
+          "coords": {
+            "lat": 26.3839845,
+            "lng": 40.9217064
+          }
+        },
+        "Demirköy": {
+          "coords": {
+            "lat": 26.6714085,
+            "lng": 41.9152768
+          }
+        },
+        "Enez": {
+          "coords": {
+            "lat": 26.0852327,
+            "lng": 40.7244543
+          }
+        },
+        "Lalapaşa": {
+          "coords": {
+            "lat": 26.7345285,
+            "lng": 41.8399008
+          }
+        },
+        "Meriç": {
+          "coords": {
+            "lat": 26.4207616,
+            "lng": 41.1913821
+          }
+        },
+        "Süloğlu": {
+          "coords": {
+            "lat": 26.9080072,
+            "lng": 41.7656982
+          }
+        },
+        "Uzunköprü": {
+          "coords": {
+            "lat": 26.6855961,
+            "lng": 41.2626058
+          }
+        }
+      }
+    },
+    "Çanakkale": {
+      "coords": {
+        "lat": 26.4148869,
+        "lng": 40.1500808
+      },
+      "administrative_area_level_2s": {
+        "Biga": {
+          "coords": {
+            "lat": 27.2421076,
+            "lng": 40.2261186
+          }
+        },
+        "Lapseki": {
+          "coords": {
+            "lat": 26.6857815,
+            "lng": 40.3426752
+          }
+        },
+        "Ayvacık": {
+          "coords": {
+            "lat": 26.4031312,
+            "lng": 39.601185
+          }
+        },
+        "Ezine": {
+          "coords": {
+            "lat": 26.3396872,
+            "lng": 39.7859291
+          }
+        },
+        "Çan": {
+          "coords": {
+            "lat": 27.0511631,
+            "lng": 40.0289459
+          }
+        },
+        "Yenice": {
+          "coords": {
+            "lat": 27.2555358,
+            "lng": 39.9297524
+          }
+        },
+        "Bayramiç": {
+          "coords": {
+            "lat": 26.6130041,
+            "lng": 39.8086241
+          }
+        },
+        "Küçükkuyu": {
+          "coords": {
+            "lat": 26.6045282,
+            "lng": 39.5465429
+          }
+        },
+        "Gelibolu": {
+          "coords": {
+            "lat": 26.6695125,
+            "lng": 40.414025
+          }
+        },
+        "Gökçeada": {
+          "coords": {
+            "lat": 25.9082324,
+            "lng": 40.201648
+          }
+        },
+        "Eceabat": {
+          "coords": {
+            "lat": 26.3574232,
+            "lng": 40.1842963
+          }
+        }
+      }
+    },
+    "Kırklareli": {
+      "coords": {
+        "lat": 27.2235523,
+        "lng": 41.7370223
+      },
+      "administrative_area_level_2s": {
+        "Babaeski": {
+          "coords": {
+            "lat": 27.0907241,
+            "lng": 41.4299402
+          }
+        },
+        "Lüleburgaz": {
+          "coords": {
+            "lat": 27.3503744,
+            "lng": 41.4082521
+          }
+        },
+        "Kofçaz": {
+          "coords": {
+            "lat": 27.1578543,
+            "lng": 41.9449622
+          }
+        },
+        "Pehlivanköy": {
+          "coords": {
+            "lat": 26.9199074,
+            "lng": 41.3471897
+          }
+        },
+        "Pınarhisar": {
+          "coords": {
+            "lat": 27.5163024,
+            "lng": 41.6261049
+          }
+        },
+        "Vize": {
+          "coords": {
+            "lat": 27.7670379,
+            "lng": 41.5728684
+          }
+        },
+        "Demirköy": {
+          "coords": {
+            "lat": 27.7651465,
+            "lng": 41.8241512
+          }
+        },
+        "Büyükkarıştıran": {
+          "coords": {
+            "lat": 27.5448266,
+            "lng": 41.2989554
+          }
+        },
+        "İğneada": {
+          "coords": {
+            "lat": 27.9864011,
+            "lng": 41.8778439
+          }
+        }
+      }
+    },
+    "Balıkesir": {
+      "coords": {
+        "lat": 27.8855587,
+        "lng": 39.6470406
+      },
+      "administrative_area_level_2s": {
+        "Havran": {
+          "coords": {
+            "lat": 27.0976984,
+            "lng": 39.5582321
+          }
+        },
+        "Susurluk": {
+          "coords": {
+            "lat": 28.1593861,
+            "lng": 39.9131297
+          }
+        },
+        "Bandırma": {
+          "coords": {
+            "lat": 27.9701779,
+            "lng": 40.3546284
+          }
+        },
+        "Kepsut": {
+          "coords": {
+            "lat": 28.1528838,
+            "lng": 39.6898687
+          }
+        },
+        "Dursunbey": {
+          "coords": {
+            "lat": 28.6253818,
+            "lng": 39.5880141
+          }
+        },
+        "Erdek": {
+          "coords": {
+            "lat": 27.7940579,
+            "lng": 40.3995934
+          }
+        },
+        "Balya": {
+          "coords": {
+            "lat": 27.5796614,
+            "lng": 39.7498649
+          }
+        },
+        "Bigadiç": {
+          "coords": {
+            "lat": 28.1322269,
+            "lng": 39.391505
+          }
+        },
+        "Gönen": {
+          "coords": {
+            "lat": 27.6566246,
+            "lng": 40.1043432
+          }
+        },
+        "İvrindi": {
+          "coords": {
+            "lat": 27.4856685,
+            "lng": 39.5813777
+          }
+        },
+        "Manyas": {
+          "coords": {
+            "lat": 27.9704292,
+            "lng": 40.0471117
+          }
+        },
+        "Marmara": {
+          "coords": {
+            "lat": 27.5560503,
+            "lng": 40.586783
+          }
+        },
+        "Savaştepe": {
+          "coords": {
+            "lat": 27.6575546,
+            "lng": 39.3850167
+          }
+        },
+        "Sındırgı": {
+          "coords": {
+            "lat": 28.1744891,
+            "lng": 39.2373343
+          }
+        },
+        "Ayvalık": {
+          "coords": {
+            "lat": 26.6937351,
+            "lng": 39.3172602
+          }
+        },
+        "Edremit": {
+          "coords": {
+            "lat": 27.0181836,
+            "lng": 39.597846
+          }
+        },
+        "Burhaniye": {
+          "coords": {
+            "lat": 26.976738,
+            "lng": 39.505955
+          }
+        },
+        "Gömeç": {
+          "coords": {
+            "lat": 26.8406128,
+            "lng": 39.3895913
+          }
+        },
+        "Altıeylül": {
+          "coords": {
+            "lat": 27.8903406,
+            "lng": 39.63373
+          }
+        },
+        "Karesi": {
+          "coords": {
+            "lat": 27.8857396,
+            "lng": 39.658637
+          }
+        }
+      }
+    },
+    "Aydın": {
+      "coords": {
+        "lat": 27.8338384,
+        "lng": 37.8459132
+      },
+      "administrative_area_level_2s": {
+        "Nazilli": {
+          "coords": {
+            "lat": 28.3254958,
+            "lng": 37.9109325
+          }
+        },
+        "Germencik": {
+          "coords": {
+            "lat": 27.6033364,
+            "lng": 37.8703174
+          }
+        },
+        "Kuşadası": {
+          "coords": {
+            "lat": 27.2668801,
+            "lng": 37.8632705
+          }
+        },
+        "Söke": {
+          "coords": {
+            "lat": 27.4113305,
+            "lng": 37.7498632
+          }
+        },
+        "Kuyucak": {
+          "coords": {
+            "lat": 28.4596384,
+            "lng": 37.9149191
+          }
+        },
+        "Çine": {
+          "coords": {
+            "lat": 28.0623096,
+            "lng": 37.6124716
+          }
+        },
+        "İncirliova": {
+          "coords": {
+            "lat": 27.7212678,
+            "lng": 37.8517502
+          }
+        },
+        "Koçarlı": {
+          "coords": {
+            "lat": 27.705696,
+            "lng": 37.7612979
+          }
+        },
+        "Sultanhisar": {
+          "coords": {
+            "lat": 28.1544266,
+            "lng": 37.8898586
+          }
+        },
+        "Buharkent": {
+          "coords": {
+            "lat": 28.7434958,
+            "lng": 37.9654749
+          }
+        },
+        "Köşk": {
+          "coords": {
+            "lat": 28.0517991,
+            "lng": 37.8532013
+          }
+        },
+        "Karacasu": {
+          "coords": {
+            "lat": 28.6053577,
+            "lng": 37.7267603
+          }
+        },
+        "Yenipazar": {
+          "coords": {
+            "lat": 28.1959499,
+            "lng": 37.8235269
+          }
+        },
+        "Bozdoğan": {
+          "coords": {
+            "lat": 28.3123037,
+            "lng": 37.6729841
+          }
+        },
+        "Karpuzlu": {
+          "coords": {
+            "lat": 27.8354311,
+            "lng": 37.561147
+          }
+        },
+        "Didim": {
+          "coords": {
+            "lat": 27.2673458,
+            "lng": 37.3754412
+          }
+        },
+        "Davutlar": {
+          "coords": {
+            "lat": 27.2944185,
+            "lng": 37.7330284
+          }
+        },
+        "Akçaova": {
+          "coords": {
+            "lat": 28.0282137,
+            "lng": 37.506046
+          }
+        },
+        "Efeler": {
+          "coords": {
+            "lat": 27.8398873,
+            "lng": 37.841123
+          }
+        }
+      }
+    },
+    "Muğla": {
+      "coords": {
+        "lat": 28.3644557,
+        "lng": 37.2148161
+      },
+      "administrative_area_level_2s": {
+        "Marmaris": {
+          "coords": {
+            "lat": 28.2724069,
+            "lng": 36.8541655
+          }
+        },
+        "Turgutreis": {
+          "coords": {
+            "lat": 27.2581535,
+            "lng": 37.0073251
+          }
+        },
+        "Bodrum": {
+          "coords": {
+            "lat": 27.433325,
+            "lng": 37.0394566
+          }
+        },
+        "Milas": {
+          "coords": {
+            "lat": 27.7823734,
+            "lng": 37.3111366
+          }
+        },
+        "Yalıkavak": {
+          "coords": {
+            "lat": 27.2951611,
+            "lng": 37.1043148
+          }
+        },
+        "Yatağan": {
+          "coords": {
+            "lat": 28.1388448,
+            "lng": 37.3434417
+          }
+        },
+        "Köyceğiz": {
+          "coords": {
+            "lat": 28.6902469,
+            "lng": 36.961834
+          }
+        },
+        "Ortaca": {
+          "coords": {
+            "lat": 28.7654688,
+            "lng": 36.8388775
+          }
+        },
+        "Dalaman": {
+          "coords": {
+            "lat": 28.8082617,
+            "lng": 36.7663922
+          }
+        },
+        "Ula": {
+          "coords": {
+            "lat": 28.416675,
+            "lng": 37.1041684
+          }
+        },
+        "Fethiye": {
+          "coords": {
+            "lat": 29.1163208,
+            "lng": 36.6217542
+          }
+        },
+        "Kavaklıdere": {
+          "coords": {
+            "lat": 28.363611,
+            "lng": 37.4461112
+          }
+        },
+        "Ekincik": {
+          "coords": {
+            "lat": 28.5505948,
+            "lng": 36.8326114
+          }
+        },
+        "Datça": {
+          "coords": {
+            "lat": 27.6873855,
+            "lng": 36.7263403
+          }
+        },
+        "Seydikemer": {
+          "coords": {
+            "lat": 29.3620373,
+            "lng": 36.6481689
+          }
+        },
+        "Menteşe": {
+          "coords": {
+            "lat": 28.3559266,
+            "lng": 37.2170349
+          }
+        }
+      }
+    },
+    "Afyonkarahisar": {
+      "coords": {
+        "lat": 30.5346872,
+        "lng": 38.7579642
+      },
+      "administrative_area_level_2s": {
+        "Dinar": {
+          "coords": {
+            "lat": 30.1635717,
+            "lng": 38.0664374
+          }
+        },
+        "Sandıklı": {
+          "coords": {
+            "lat": 30.2695379,
+            "lng": 38.4663091
+          }
+        },
+        "Sultandağı": {
+          "coords": {
+            "lat": 31.229007,
+            "lng": 38.5322614
+          }
+        },
+        "Çay": {
+          "coords": {
+            "lat": 31.0265129,
+            "lng": 38.5910378
+          }
+        },
+        "Bolvadin": {
+          "coords": {
+            "lat": 31.0454865,
+            "lng": 38.7115866
+          }
+        },
+        "Çobanlar": {
+          "coords": {
+            "lat": 30.7812946,
+            "lng": 38.7026504
+          }
+        },
+        "İscehisar": {
+          "coords": {
+            "lat": 30.7530501,
+            "lng": 38.8615568
+          }
+        },
+        "Bayat": {
+          "coords": {
+            "lat": 30.925576,
+            "lng": 38.9844235
+          }
+        },
+        "Emirdağ": {
+          "coords": {
+            "lat": 31.1533706,
+            "lng": 39.0159072
+          }
+        },
+        "İhsaniye": {
+          "coords": {
+            "lat": 30.4174189,
+            "lng": 39.0298219
+          }
+        },
+        "Başmakçı": {
+          "coords": {
+            "lat": 30.0097784,
+            "lng": 37.8973577
+          }
+        },
+        "Dazkırı": {
+          "coords": {
+            "lat": 29.8599158,
+            "lng": 37.9187026
+          }
+        },
+        "Evciler": {
+          "coords": {
+            "lat": 29.8846316,
+            "lng": 38.0406412
+          }
+        },
+        "Hocalar": {
+          "coords": {
+            "lat": 29.9668799,
+            "lng": 38.5808125
+          }
+        },
+        "Şuhut": {
+          "coords": {
+            "lat": 30.5456106,
+            "lng": 38.5342526
+          }
+        },
+        "Kızılören": {
+          "coords": {
+            "lat": 30.1510121,
+            "lng": 38.258265
+          }
+        },
+        "Sinanpaşa": {
+          "coords": {
+            "lat": 30.2446641,
+            "lng": 38.7440463
+          }
+        }
+      }
+    },
+    "Bilecik": {
+      "coords": {
+        "lat": 29.9752911,
+        "lng": 40.1435101
+      },
+      "administrative_area_level_2s": {
+        "Bozüyük": {
+          "coords": {
+            "lat": 30.0486916,
+            "lng": 39.907363
+          }
+        },
+        "Osmaneli": {
+          "coords": {
+            "lat": 30.0162928,
+            "lng": 40.357266
+          }
+        },
+        "Pazaryeri": {
+          "coords": {
+            "lat": 29.9031259,
+            "lng": 39.9954056
+          }
+        },
+        "Söğüt": {
+          "coords": {
+            "lat": 30.1836088,
+            "lng": 40.0175089
+          }
+        },
+        "İnhisar": {
+          "coords": {
+            "lat": 30.3848455,
+            "lng": 40.0502928
+          }
+        },
+        "Gölpazarı": {
+          "coords": {
+            "lat": 30.3165356,
+            "lng": 40.2839365
+          }
+        },
+        "Yenipazar": {
+          "coords": {
+            "lat": 30.5190761,
+            "lng": 40.1766829
+          }
+        }
+      }
+    },
+    "Burdur": {
+      "coords": {
+        "lat": 30.2887286,
+        "lng": 37.7248394
+      },
+      "administrative_area_level_2s": {
+        "Çavdır": {
+          "coords": {
+            "lat": 29.6900028,
+            "lng": 37.154989
+          }
+        },
+        "Bucak": {
+          "coords": {
+            "lat": 30.5855392,
+            "lng": 37.4567447
+          }
+        },
+        "Karamanlı": {
+          "coords": {
+            "lat": 29.8226015,
+            "lng": 37.3717764
+          }
+        },
+        "Yeşilova": {
+          "coords": {
+            "lat": 29.7552378,
+            "lng": 37.5064376
+          }
+        },
+        "Tefenni": {
+          "coords": {
+            "lat": 29.7759765,
+            "lng": 37.3132492
+          }
+        },
+        "Kemer": {
+          "coords": {
+            "lat": 30.0617927,
+            "lng": 37.3540601
+          }
+        },
+        "Gölhisar": {
+          "coords": {
+            "lat": 29.5119786,
+            "lng": 37.1481403
+          }
+        },
+        "Altınyayla": {
+          "coords": {
+            "lat": 29.5463794,
+            "lng": 36.9972772
+          }
+        },
+        "Çeltikçi": {
+          "coords": {
+            "lat": 30.4824927,
+            "lng": 37.534143
+          }
+        },
+        "Ağlasun": {
+          "coords": {
+            "lat": 30.5331918,
+            "lng": 37.6496612
+          }
+        },
+        "undefined": {
+          "coords": {
+            "lat": 30.2804363,
+            "lng": 37.6213889
+          }
+        }
+      }
+    },
+    "Denizli": {
+      "coords": {
+        "lat": 29.0863125,
+        "lng": 37.7715165
+      },
+      "administrative_area_level_2s": {
+        "Pamukkale": {
+          "coords": {
+            "lat": 29.1193081,
+            "lng": 37.9164906
+          }
+        },
+        "Honaz": {
+          "coords": {
+            "lat": 29.2695789,
+            "lng": 37.7581791
+          }
+        },
+        "Bozkurt": {
+          "coords": {
+            "lat": 29.6100086,
+            "lng": 37.8228104
+          }
+        },
+        "Baklan": {
+          "coords": {
+            "lat": 29.6075103,
+            "lng": 37.9772371
+          }
+        },
+        "Çivril": {
+          "coords": {
+            "lat": 29.7373813,
+            "lng": 38.3005877
+          }
+        },
+        "Tavas": {
+          "coords": {
+            "lat": 29.071421,
+            "lng": 37.572618
+          }
+        },
+        "Çardak": {
+          "coords": {
+            "lat": 29.6711672,
+            "lng": 37.8275968
+          }
+        },
+        "Çal": {
+          "coords": {
+            "lat": 29.397294,
+            "lng": 38.0813509
+          }
+        },
+        "Bekilli": {
+          "coords": {
+            "lat": 29.4200909,
+            "lng": 38.2295003
+          }
+        },
+        "Güney": {
+          "coords": {
+            "lat": 29.0652247,
+            "lng": 38.1539329
+          }
+        },
+        "Buldan": {
+          "coords": {
+            "lat": 28.8310117,
+            "lng": 38.045104
+          }
+        },
+        "Kale": {
+          "coords": {
+            "lat": 28.8463079,
+            "lng": 37.4437871
+          }
+        },
+        "Sarayköy": {
+          "coords": {
+            "lat": 28.924561,
+            "lng": 37.9226712
+          }
+        },
+        "Serinhisar": {
+          "coords": {
+            "lat": 29.2662284,
+            "lng": 37.5764593
+          }
+        },
+        "Çameli": {
+          "coords": {
+            "lat": 29.3447222,
+            "lng": 37.0761111
+          }
+        },
+        "Acıpayam": {
+          "coords": {
+            "lat": 29.3502917,
+            "lng": 37.4269098
+          }
+        },
+        "Beyağaç": {
+          "coords": {
+            "lat": 28.8961565,
+            "lng": 37.2348064
+          }
+        },
+        "Babadağ": {
+          "coords": {
+            "lat": 28.856383,
+            "lng": 37.8077123
+          }
+        },
+        "Merkezefendi": {
+          "coords": {
+            "lat": 29.0666541,
+            "lng": 37.7918205
+          }
+        }
+      }
+    },
+    "Düzce": {
+      "coords": {
+        "lat": 31.1569975,
+        "lng": 40.8422778
+      },
+      "administrative_area_level_2s": {
+        "Çilimli": {
+          "coords": {
+            "lat": 31.0479178,
+            "lng": 40.8919385
+          }
+        },
+        "Cumayeri": {
+          "coords": {
+            "lat": 30.9502029,
+            "lng": 40.8737805
+          }
+        },
+        "Gümüşova": {
+          "coords": {
+            "lat": 30.9374437,
+            "lng": 40.8466444
+          }
+        },
+        "Gölyaka": {
+          "coords": {
+            "lat": 30.996295,
+            "lng": 40.7780209
+          }
+        },
+        "Kaynaşlı": {
+          "coords": {
+            "lat": 31.3188679,
+            "lng": 40.7721739
+          }
+        },
+        "Yığılca": {
+          "coords": {
+            "lat": 31.4442949,
+            "lng": 40.9599811
+          }
+        }
+      }
+    },
+    "Eskişehir": {
+      "coords": {
+        "lat": 30.5216465,
+        "lng": 39.7688564
+      },
+      "administrative_area_level_2s": {
+        "Sivrihisar": {
+          "coords": {
+            "lat": 31.5360911,
+            "lng": 39.4496295
+          }
+        },
+        "Beylikova": {
+          "coords": {
+            "lat": 31.2075869,
+            "lng": 39.6927622
+          }
+        },
+        "Çifteler": {
+          "coords": {
+            "lat": 31.0411475,
+            "lng": 39.380486
+          }
+        },
+        "Mahmudiye": {
+          "coords": {
+            "lat": 30.9846773,
+            "lng": 39.4970414
+          }
+        },
+        "Seyitgazi": {
+          "coords": {
+            "lat": 30.6980388,
+            "lng": 39.4442048
+          }
+        },
+        "Mihalgazi": {
+          "coords": {
+            "lat": 30.5787211,
+            "lng": 40.027169
+          }
+        },
+        "Sarıcakaya": {
+          "coords": {
+            "lat": 30.6193667,
+            "lng": 40.0386183
+          }
+        },
+        "İnönü": {
+          "coords": {
+            "lat": 30.14447,
+            "lng": 39.8152777
+          }
+        },
+        "Günyüzü": {
+          "coords": {
+            "lat": 31.8098051,
+            "lng": 39.3827902
+          }
+        },
+        "Alpu": {
+          "coords": {
+            "lat": 30.9574548,
+            "lng": 39.7647122
+          }
+        },
+        "Han": {
+          "coords": {
+            "lat": 30.8626631,
+            "lng": 39.1582029
+          }
+        },
+        "Mihalıççık": {
+          "coords": {
+            "lat": 31.4960719,
+            "lng": 39.8666422
+          }
+        },
+        "Tepebaşı": {
+          "coords": {
+            "lat": 30.5177635,
+            "lng": 39.7926524
+          }
+        },
+        "Odunpazarı": {
+          "coords": {
+            "lat": 30.5000177,
+            "lng": 39.7542474
+          }
+        }
+      }
+    },
+    "Kocaeli": {
+      "coords": {
+        "lat": 29.9683195,
+        "lng": 40.7684074
+      },
+      "administrative_area_level_2s": {
+        "Gebze": {
+          "coords": {
+            "lat": 29.431767,
+            "lng": 40.8006696
+          }
+        },
+        "Darıca": {
+          "coords": {
+            "lat": 29.3840563,
+            "lng": 40.7574799
+          }
+        },
+        "Derince": {
+          "coords": {
+            "lat": 29.8299597,
+            "lng": 40.7568878
+          }
+        },
+        "Gölcük": {
+          "coords": {
+            "lat": 29.8286111,
+            "lng": 40.7166667
+          }
+        },
+        "Körfez": {
+          "coords": {
+            "lat": 29.7839402,
+            "lng": 40.760756
+          }
+        },
+        "Karamürsel": {
+          "coords": {
+            "lat": 29.6167558,
+            "lng": 40.6908976
+          }
+        },
+        "Kandıra": {
+          "coords": {
+            "lat": 30.155833,
+            "lng": 41.0710385
+          }
+        },
+        "Dilovası": {
+          "coords": {
+            "lat": 29.5260959,
+            "lng": 40.7756061
+          }
+        },
+        "Başiskele": {
+          "coords": {
+            "lat": 29.9276921,
+            "lng": 40.7152979
+          }
+        },
+        "Çayırova": {
+          "coords": {
+            "lat": 29.381513,
+            "lng": 40.8336901
+          }
+        },
+        "İzmit": {
+          "coords": {
+            "lat": 29.9279311,
+            "lng": 40.7643476
+          }
+        },
+        "Kartepe": {
+          "coords": {
+            "lat": 30.0364545,
+            "lng": 40.692493
+          }
+        }
+      }
+    },
+    "Konya": {
+      "coords": {
+        "lat": 32.4844015,
+        "lng": 37.8719963
+      },
+      "administrative_area_level_2s": {
+        "Seydişehir": {
+          "coords": {
+            "lat": 31.8461703,
+            "lng": 37.4196464
+          }
+        },
+        "Karapınar": {
+          "coords": {
+            "lat": 33.5476273,
+            "lng": 37.7177584
+          }
+        },
+        "Ereğli": {
+          "coords": {
+            "lat": 34.0494181,
+            "lng": 37.5145433
+          }
+        },
+        "Halkapınar": {
+          "coords": {
+            "lat": 34.188515,
+            "lng": 37.4349536
+          }
+        },
+        "Beyşehir": {
+          "coords": {
+            "lat": 31.7269088,
+            "lng": 37.6754536
+          }
+        },
+        "Kadınhanı": {
+          "coords": {
+            "lat": 32.2122055,
+            "lng": 38.2400504
+          }
+        },
+        "Sarayönü": {
+          "coords": {
+            "lat": 32.405574,
+            "lng": 38.2639561
+          }
+        },
+        "Çumra": {
+          "coords": {
+            "lat": 32.7811767,
+            "lng": 37.5713333
+          }
+        },
+        "Akşehir": {
+          "coords": {
+            "lat": 31.4177078,
+            "lng": 38.3583397
+          }
+        },
+        "Ilgın": {
+          "coords": {
+            "lat": 31.9171106,
+            "lng": 38.2814804
+          }
+        },
+        "Yunak": {
+          "coords": {
+            "lat": 31.7367041,
+            "lng": 38.8121403
+          }
+        },
+        "Tuzlukçu": {
+          "coords": {
+            "lat": 31.6254775,
+            "lng": 38.471115
+          }
+        },
+        "Emirgazi": {
+          "coords": {
+            "lat": 33.833883,
+            "lng": 37.9043659
+          }
+        },
+        "Akören": {
+          "coords": {
+            "lat": 32.3725238,
+            "lng": 37.4523288
+          }
+        },
+        "Altınekin": {
+          "coords": {
+            "lat": 32.8744131,
+            "lng": 38.3079062
+          }
+        },
+        "Cihanbeyli": {
+          "coords": {
+            "lat": 32.925431,
+            "lng": 38.6591656
+          }
+        },
+        "Derbent": {
+          "coords": {
+            "lat": 32.0172472,
+            "lng": 38.0137463
+          }
+        },
+        "Derebucak": {
+          "coords": {
+            "lat": 31.5088733,
+            "lng": 37.3912926
+          }
+        },
+        "Bozkır": {
+          "coords": {
+            "lat": 32.2487422,
+            "lng": 37.1883248
+          }
+        },
+        "Ahırlı": {
+          "coords": {
+            "lat": 32.1189472,
+            "lng": 37.2387107
+          }
+        },
+        "Hadim": {
+          "coords": {
+            "lat": 32.4551382,
+            "lng": 36.9867876
+          }
+        },
+        "Taşkent": {
+          "coords": {
+            "lat": 32.4922235,
+            "lng": 36.9244402
+          }
+        },
+        "Hüyük": {
+          "coords": {
+            "lat": 31.5973318,
+            "lng": 37.9547763
+          }
+        },
+        "Doğanhisar": {
+          "coords": {
+            "lat": 31.6763735,
+            "lng": 38.1459846
+          }
+        },
+        "Meram": {
+          "coords": {
+            "lat": 32.4383333,
+            "lng": 37.8363889
+          }
+        },
+        "Karatay": {
+          "coords": {
+            "lat": 32.5334488,
+            "lng": 37.8873647
+          }
+        },
+        "Güneysınır": {
+          "coords": {
+            "lat": 32.7292523,
+            "lng": 37.2680001
+          }
+        },
+        "Kulu": {
+          "coords": {
+            "lat": 33.08056,
+            "lng": 39.08917
+          }
+        },
+        "Çeltik": {
+          "coords": {
+            "lat": 31.79056,
+            "lng": 39.024445
+          }
+        },
+        "Ladik": {
+          "coords": {
+            "lat": 32.37346,
+            "lng": 38.1911996
+          }
+        },
+        "Yalıhüyük": {
+          "coords": {
+            "lat": 32.0851628,
+            "lng": 37.3010591
+          }
+        },
+        "Selçuklu": {
+          "coords": {
+            "lat": 32.477161,
+            "lng": 37.9271209
+          }
+        }
+      }
+    },
+    "Kütahya": {
+      "coords": {
+        "lat": 29.9854528,
+        "lng": 39.4195048
+      },
+      "administrative_area_level_2s": {
+        "Tavşanlı": {
+          "coords": {
+            "lat": 29.5006831,
+            "lng": 39.5410351
+          }
+        },
+        "Simav": {
+          "coords": {
+            "lat": 28.9778659,
+            "lng": 39.089056
+          }
+        },
+        "Aslanapa": {
+          "coords": {
+            "lat": 29.869627,
+            "lng": 39.2152231
+          }
+        },
+        "Çavdarhisar": {
+          "coords": {
+            "lat": 29.619524,
+            "lng": 39.1943854
+          }
+        },
+        "Domaniç": {
+          "coords": {
+            "lat": 29.6118544,
+            "lng": 39.8014005
+          }
+        },
+        "Dumlupınar": {
+          "coords": {
+            "lat": 29.9776411,
+            "lng": 38.8543635
+          }
+        },
+        "Emet": {
+          "coords": {
+            "lat": 29.2572082,
+            "lng": 39.3390778
+          }
+        },
+        "Gediz": {
+          "coords": {
+            "lat": 29.3911585,
+            "lng": 38.993429
+          }
+        },
+        "Hisarcık": {
+          "coords": {
+            "lat": 29.2312912,
+            "lng": 39.2505098
+          }
+        },
+        "Pazarlar": {
+          "coords": {
+            "lat": 29.1239846,
+            "lng": 38.9942722
+          }
+        },
+        "Şaphane": {
+          "coords": {
+            "lat": 29.2208037,
+            "lng": 39.0262442
+          }
+        },
+        "Altıntaş": {
+          "coords": {
+            "lat": 30.1072836,
+            "lng": 39.0600104
+          }
+        }
+      }
+    },
+    "Manisa": {
+      "coords": {
+        "lat": 27.4255716,
+        "lng": 38.6155029
+      },
+      "administrative_area_level_2s": {
+        "Kula": {
+          "coords": {
+            "lat": 28.648163,
+            "lng": 38.5461169
+          }
+        },
+        "Turgutlu": {
+          "coords": {
+            "lat": 27.7060854,
+            "lng": 38.497029
+          }
+        },
+        "Akhisar": {
+          "coords": {
+            "lat": 27.8401895,
+            "lng": 38.9240528
+          }
+        },
+        "Kırkağaç": {
+          "coords": {
+            "lat": 27.6686441,
+            "lng": 39.1073933
+          }
+        },
+        "Saruhanlı": {
+          "coords": {
+            "lat": 27.5702821,
+            "lng": 38.7342418
+          }
+        },
+        "Gölmarmara": {
+          "coords": {
+            "lat": 27.9158921,
+            "lng": 38.7112968
+          }
+        },
+        "Sarıgöl": {
+          "coords": {
+            "lat": 28.6957894,
+            "lng": 38.2400037
+          }
+        },
+        "Alaşehir": {
+          "coords": {
+            "lat": 28.516575,
+            "lng": 38.3507471
+          }
+        },
+        "Ahmetli": {
+          "coords": {
+            "lat": 27.9384848,
+            "lng": 38.5197069
+          }
+        },
+        "Demirci": {
+          "coords": {
+            "lat": 28.6622418,
+            "lng": 39.0507689
+          }
+        },
+        "Gördes": {
+          "coords": {
+            "lat": 28.2900203,
+            "lng": 38.9329781
+          }
+        },
+        "Köprübaşı": {
+          "coords": {
+            "lat": 28.4029532,
+            "lng": 38.7480227
+          }
+        },
+        "Selendi": {
+          "coords": {
+            "lat": 28.868207,
+            "lng": 38.7447791
+          }
+        },
+        "Salihli": {
+          "coords": {
+            "lat": 28.1540215,
+            "lng": 38.4825886
+          }
+        },
+        "Soma": {
+          "coords": {
+            "lat": 27.6021127,
+            "lng": 39.180021
+          }
+        },
+        "Şehzadeler": {
+          "coords": {
+            "lat": 27.4434105,
+            "lng": 38.6157323
+          }
+        },
+        "Yunusemre": {
+          "coords": {
+            "lat": 27.3917443,
+            "lng": 38.6215153
+          }
+        }
+      }
+    },
+    "Uşak": {
+      "coords": {
+        "lat": 29.4033271,
+        "lng": 38.6810732
+      },
+      "administrative_area_level_2s": {
+        "Sivaslı": {
+          "coords": {
+            "lat": 29.6851104,
+            "lng": 38.4992212
+          }
+        },
+        "Karahallı": {
+          "coords": {
+            "lat": 29.5323982,
+            "lng": 38.3206204
+          }
+        },
+        "Ulubey": {
+          "coords": {
+            "lat": 29.2905961,
+            "lng": 38.4207164
+          }
+        },
+        "Banaz": {
+          "coords": {
+            "lat": 29.7529924,
+            "lng": 38.7394686
+          }
+        }
+      }
+    },
+    "Yalova": {
+      "coords": {
+        "lat": 29.2729091,
+        "lng": 40.6556669
+      },
+      "administrative_area_level_2s": {
+        "Çınarcık": {
+          "coords": {
+            "lat": 29.1206147,
+            "lng": 40.6424901
+          }
+        },
+        "Çiftlikköy": {
+          "coords": {
+            "lat": 29.3240402,
+            "lng": 40.6668538
+          }
+        },
+        "Altınova": {
+          "coords": {
+            "lat": 29.5116121,
+            "lng": 40.697288
+          }
+        },
+        "Armutlu": {
+          "coords": {
+            "lat": 28.8280114,
+            "lng": 40.5196199
+          }
+        },
+        "Termal": {
+          "coords": {
+            "lat": 29.1735795,
+            "lng": 40.6055855
+          }
+        }
+      }
+    },
+    "Adana": {
+      "coords": {
+        "lat": 35.3263252,
+        "lng": 37.0033484
+      },
+      "administrative_area_level_2s": {
+        "Pozantı": {
+          "coords": {
+            "lat": 34.8725026,
+            "lng": 37.4226958
+          }
+        },
+        "Ceyhan": {
+          "coords": {
+            "lat": 35.8171007,
+            "lng": 37.0283058
+          }
+        },
+        "Kozan": {
+          "coords": {
+            "lat": 35.8163535,
+            "lng": 37.4488715
+          }
+        },
+        "İmamoğlu": {
+          "coords": {
+            "lat": 35.6634107,
+            "lng": 37.2565285
+          }
+        },
+        "Tufanbeyli": {
+          "coords": {
+            "lat": 36.2225395,
+            "lng": 38.262973
+          }
+        },
+        "Feke": {
+          "coords": {
+            "lat": 35.9122519,
+            "lng": 37.8147004
+          }
+        },
+        "Karaisalı": {
+          "coords": {
+            "lat": 35.058181,
+            "lng": 37.2562841
+          }
+        },
+        "Saimbeyli": {
+          "coords": {
+            "lat": 36.0887885,
+            "lng": 37.9853461
+          }
+        },
+        "Aladağ": {
+          "coords": {
+            "lat": 35.3949766,
+            "lng": 37.5485184
+          }
+        },
+        "Karataş": {
+          "coords": {
+            "lat": 35.38207,
+            "lng": 36.56357
+          }
+        },
+        "Yumurtalık": {
+          "coords": {
+            "lat": 35.7903962,
+            "lng": 36.7673329
+          }
+        },
+        "Sarıçam": {
+          "coords": {
+            "lat": 35.41449,
+            "lng": 37.0330174
+          }
+        },
+        "Seyhan": {
+          "coords": {
+            "lat": 35.3189535,
+            "lng": 36.9916971
+          }
+        },
+        "Çukurova": {
+          "coords": {
+            "lat": 35.3075047,
+            "lng": 37.0422639
+          }
+        },
+        "Yüreğir": {
+          "coords": {
+            "lat": 35.3664879,
+            "lng": 36.9855799
+          }
+        }
+      }
+    },
+    "Hakkâri": {
+      "coords": {
+        "lat": 43.73766,
+        "lng": 37.574898
+      },
+      "administrative_area_level_2s": {}
+    },
+    "Van": {
+      "coords": {
+        "lat": 43.3742174,
+        "lng": 38.5083848
+      },
+      "administrative_area_level_2s": {
+        "Çaldıran": {
+          "coords": {
+            "lat": 43.90663,
+            "lng": 39.1394888
+          }
+        },
+        "Muradiye": {
+          "coords": {
+            "lat": 43.7591071,
+            "lng": 38.9865814
+          }
+        },
+        "Erciş": {
+          "coords": {
+            "lat": 43.3593499,
+            "lng": 39.0283715
+          }
+        },
+        "Saray": {
+          "coords": {
+            "lat": 44.1706892,
+            "lng": 38.6489621
+          }
+        },
+        "Özalp": {
+          "coords": {
+            "lat": 43.9904448,
+            "lng": 38.6570055
+          }
+        },
+        "Gevaş": {
+          "coords": {
+            "lat": 43.108271,
+            "lng": 38.2952862
+          }
+        },
+        "Edremit": {
+          "coords": {
+            "lat": 43.2568962,
+            "lng": 38.4258373
+          }
+        },
+        "Gürpınar": {
+          "coords": {
+            "lat": 43.4079006,
+            "lng": 38.323265
+          }
+        },
+        "Çatak": {
+          "coords": {
+            "lat": 43.0615354,
+            "lng": 38.0078677
+          }
+        },
+        "Bahçesaray": {
+          "coords": {
+            "lat": 42.8067809,
+            "lng": 38.1248076
+          }
+        },
+        "Başkale": {
+          "coords": {
+            "lat": 44.0180863,
+            "lng": 38.0444545
+          }
+        }
+      }
+    },
+    "Iğdır": {
+      "coords": {
+        "lat": 44.0467885,
+        "lng": 39.9215462
+      },
+      "administrative_area_level_2s": {
+        "Tuzluca": {
+          "coords": {
+            "lat": 43.6639164,
+            "lng": 40.0416796
+          }
+        },
+        "Aralık": {
+          "coords": {
+            "lat": 44.516546,
+            "lng": 39.8739427
+          }
+        },
+        "Karakoyunlu": {
+          "coords": {
+            "lat": 44.1783513,
+            "lng": 39.9726233
+          }
+        }
+      }
+    },
+    "Hatay": {
+      "coords": {
+        "lat": 36.1653617,
+        "lng": 36.2176872
+      },
+      "administrative_area_level_2s": {
+        "İskenderun": {
+          "coords": {
+            "lat": 36.1748446,
+            "lng": 36.57806
+          }
+        },
+        "Belen": {
+          "coords": {
+            "lat": 36.1938561,
+            "lng": 36.4902137
+          }
+        },
+        "Arsuz": {
+          "coords": {
+            "lat": 35.8863197,
+            "lng": 36.4126141
+          }
+        },
+        "Samandağ": {
+          "coords": {
+            "lat": 35.9798751,
+            "lng": 36.0852107
+          }
+        },
+        "Hassa": {
+          "coords": {
+            "lat": 36.5234014,
+            "lng": 36.7979387
+          }
+        },
+        "Kırıkhan": {
+          "coords": {
+            "lat": 36.3613684,
+            "lng": 36.4961853
+          }
+        },
+        "Reyhanlı": {
+          "coords": {
+            "lat": 36.5673963,
+            "lng": 36.2679188
+          }
+        },
+        "Dörtyol": {
+          "coords": {
+            "lat": 36.2243413,
+            "lng": 36.8374118
+          }
+        },
+        "Yayladağı": {
+          "coords": {
+            "lat": 36.0653387,
+            "lng": 35.900894
+          }
+        },
+        "Kumlu": {
+          "coords": {
+            "lat": 36.4534466,
+            "lng": 36.3651122
+          }
+        },
+        "Altınözü": {
+          "coords": {
+            "lat": 36.2501778,
+            "lng": 36.1161204
+          }
+        },
+        "Erzin": {
+          "coords": {
+            "lat": 36.2022822,
+            "lng": 36.9536081
+          }
+        },
+        "Payas": {
+          "coords": {
+            "lat": 36.2157518,
+            "lng": 36.7574741
+          }
+        },
+        "Çekmece": {
+          "coords": {
+            "lat": 36.130626,
+            "lng": 36.199878
+          }
+        },
+        "Defne": {
+          "coords": {
+            "lat": 36.1383234,
+            "lng": 36.1840277
+          }
+        }
+      }
+    },
+    "Kahramanmaraş": {
+      "coords": {
+        "lat": 36.9034134,
+        "lng": 37.587084
+      },
+      "administrative_area_level_2s": {
+        "Pazarcık": {
+          "coords": {
+            "lat": 37.301369,
+            "lng": 37.4902296
+          }
+        },
+        "Türkoğlu": {
+          "coords": {
+            "lat": 36.8508631,
+            "lng": 37.3817554
+          }
+        },
+        "Andırın": {
+          "coords": {
+            "lat": 36.3538657,
+            "lng": 37.5737884
+          }
+        },
+        "Elbistan": {
+          "coords": {
+            "lat": 37.1903006,
+            "lng": 38.2022294
+          }
+        },
+        "Afşin": {
+          "coords": {
+            "lat": 36.9152873,
+            "lng": 38.2438548
+          }
+        },
+        "Göksun": {
+          "coords": {
+            "lat": 36.494634,
+            "lng": 38.0214898
+          }
+        },
+        "Ekinözü": {
+          "coords": {
+            "lat": 37.1876462,
+            "lng": 38.0591265
+          }
+        },
+        "Nurhak": {
+          "coords": {
+            "lat": 37.4489384,
+            "lng": 37.9641667
+          }
+        },
+        "Çağlayancerit": {
+          "coords": {
+            "lat": 37.2919927,
+            "lng": 37.7502284
+          }
+        },
+        "Dulkadiroğlu": {
+          "coords": {
+            "lat": 36.9495711,
+            "lng": 37.5783585
+          }
+        },
+        "Onikişubat": {
+          "coords": {
+            "lat": 36.9095854,
+            "lng": 37.5862432
+          }
+        }
+      }
+    },
+    "Mersin": {
+      "coords": {
+        "lat": 34.630542,
+        "lng": 36.81275
+      },
+      "administrative_area_level_2s": {}
+    },
+    "Osmaniye": {
+      "coords": {
+        "lat": 36.255941,
+        "lng": 37.073671
+      },
+      "administrative_area_level_2s": {
+        "Kadirli": {
+          "coords": {
+            "lat": 36.0946115,
+            "lng": 37.3686301
+          }
+        },
+        "Düziçi": {
+          "coords": {
+            "lat": 36.4538091,
+            "lng": 37.2397882
+          }
+        },
+        "Toprakkale": {
+          "coords": {
+            "lat": 36.1473277,
+            "lng": 37.0694967
+          }
+        },
+        "Sumbas": {
+          "coords": {
+            "lat": 36.0194531,
+            "lng": 37.4538851
+          }
+        },
+        "Hasanbeyli": {
+          "coords": {
+            "lat": 36.5547048,
+            "lng": 37.131043
+          }
+        },
+        "Bahçe": {
+          "coords": {
+            "lat": 36.5765131,
+            "lng": 37.2001422
+          }
+        }
+      }
+    },
+    "Aksaray": {
+      "coords": {
+        "lat": 34.026907,
+        "lng": 38.3705416
+      },
+      "administrative_area_level_2s": {
+        "Güzelyurt": {
+          "coords": {
+            "lat": 34.3717702,
+            "lng": 38.275992
+          }
+        },
+        "Gülağaç": {
+          "coords": {
+            "lat": 34.3462671,
+            "lng": 38.394338
+          }
+        },
+        "Ortaköy": {
+          "coords": {
+            "lat": 34.0415133,
+            "lng": 38.7366433
+          }
+        },
+        "Ağaçören": {
+          "coords": {
+            "lat": 33.9162045,
+            "lng": 38.8690929
+          }
+        },
+        "Eskil": {
+          "coords": {
+            "lat": 33.4115731,
+            "lng": 38.4013916
+          }
+        },
+        "Sarıyahşi": {
+          "coords": {
+            "lat": 33.8455368,
+            "lng": 38.9849345
+          }
+        }
+      }
+    },
+    "Çankırı": {
+      "coords": {
+        "lat": 33.6162774,
+        "lng": 40.6003519
+      },
+      "administrative_area_level_2s": {
+        "Orta": {
+          "coords": {
+            "lat": 33.1090473,
+            "lng": 40.6251517
+          }
+        },
+        "Çerkeş": {
+          "coords": {
+            "lat": 32.8935236,
+            "lng": 40.8116294
+          }
+        },
+        "Ilgaz": {
+          "coords": {
+            "lat": 33.6261642,
+            "lng": 40.9250068
+          }
+        },
+        "Kızılırmak": {
+          "coords": {
+            "lat": 33.9892213,
+            "lng": 40.3457518
+          }
+        },
+        "Eldivan": {
+          "coords": {
+            "lat": 33.4966173,
+            "lng": 40.5306791
+          }
+        },
+        "Atkaracalar": {
+          "coords": {
+            "lat": 33.0744882,
+            "lng": 40.8170362
+          }
+        },
+        "Bayramören": {
+          "coords": {
+            "lat": 33.2026175,
+            "lng": 40.9432713
+          }
+        },
+        "Korgun": {
+          "coords": {
+            "lat": 33.5183405,
+            "lng": 40.7350987
+          }
+        },
+        "Kurşunlu": {
+          "coords": {
+            "lat": 33.2593211,
+            "lng": 40.8397216
+          }
+        },
+        "Şabanözü": {
+          "coords": {
+            "lat": 33.2824563,
+            "lng": 40.4833872
+          }
+        },
+        "Yapraklı": {
+          "coords": {
+            "lat": 33.7786302,
+            "lng": 40.7575973
+          }
+        }
+      }
+    },
+    "Karaman": {
+      "coords": {
+        "lat": 33.2224781,
+        "lng": 37.1792447
+      },
+      "administrative_area_level_2s": {
+        "Ayrancı": {
+          "coords": {
+            "lat": 33.689381,
+            "lng": 37.3602058
+          }
+        },
+        "Ermenek": {
+          "coords": {
+            "lat": 32.8917808,
+            "lng": 36.6393129
+          }
+        },
+        "Başyayla": {
+          "coords": {
+            "lat": 32.6795377,
+            "lng": 36.7535986
+          }
+        },
+        "Kazımkarabekir": {
+          "coords": {
+            "lat": 32.9585456,
+            "lng": 37.2267309
+          }
+        },
+        "Sarıveliler": {
+          "coords": {
+            "lat": 32.615854,
+            "lng": 36.6987596
+          }
+        }
+      }
+    },
+    "Kayseri": {
+      "coords": {
+        "lat": 35.4836107,
+        "lng": 38.7253231
+      },
+      "administrative_area_level_2s": {
+        "Yeşilhisar": {
+          "coords": {
+            "lat": 35.0886827,
+            "lng": 38.3522777
+          }
+        },
+        "İncesu": {
+          "coords": {
+            "lat": 35.184059,
+            "lng": 38.621228
+          }
+        },
+        "Develi": {
+          "coords": {
+            "lat": 35.4927912,
+            "lng": 38.3885742
+          }
+        },
+        "Yahyalı": {
+          "coords": {
+            "lat": 35.3573836,
+            "lng": 38.1008667
+          }
+        },
+        "Pınarbaşı": {
+          "coords": {
+            "lat": 36.3931798,
+            "lng": 38.7211834
+          }
+        },
+        "Sarıoğlan": {
+          "coords": {
+            "lat": 35.9672492,
+            "lng": 39.07706
+          }
+        },
+        "Felahiye": {
+          "coords": {
+            "lat": 35.5668789,
+            "lng": 39.0905556
+          }
+        },
+        "Özvatan": {
+          "coords": {
+            "lat": 35.7018047,
+            "lng": 39.1068084
+          }
+        },
+        "Akkışla": {
+          "coords": {
+            "lat": 36.17099,
+            "lng": 39.0014555
+          }
+        },
+        "Bünyan": {
+          "coords": {
+            "lat": 35.8572204,
+            "lng": 38.8426878
+          }
+        },
+        "Sarız": {
+          "coords": {
+            "lat": 36.4970264,
+            "lng": 38.4802377
+          }
+        },
+        "Talas": {
+          "coords": {
+            "lat": 35.5521122,
+            "lng": 38.6899953
+          }
+        },
+        "Hacılar": {
+          "coords": {
+            "lat": 35.4512148,
+            "lng": 38.64487
+          }
+        },
+        "Melikgazi": {
+          "coords": {
+            "lat": 35.5056623,
+            "lng": 38.7199062
+          }
+        },
+        "Kocasinan": {
+          "coords": {
+            "lat": 35.4804256,
+            "lng": 38.7402611
+          }
+        },
+        "Tomarza": {
+          "coords": {
+            "lat": 35.7999119,
+            "lng": 38.4484768
+          }
+        }
+      }
+    },
+    "Kırıkkale": {
+      "coords": {
+        "lat": 33.5276222,
+        "lng": 39.8485708
+      },
+      "administrative_area_level_2s": {
+        "Yahşihan": {
+          "coords": {
+            "lat": 33.4532896,
+            "lng": 39.850234
+          }
+        },
+        "Balışeyh": {
+          "coords": {
+            "lat": 33.7184848,
+            "lng": 39.9100724
+          }
+        },
+        "Keskin": {
+          "coords": {
+            "lat": 33.616211,
+            "lng": 39.6746319
+          }
+        },
+        "Sulakyurt": {
+          "coords": {
+            "lat": 33.7156669,
+            "lng": 40.1576767
+          }
+        },
+        "Delice": {
+          "coords": {
+            "lat": 34.0315905,
+            "lng": 39.9455103
+          }
+        },
+        "Bahşılı": {
+          "coords": {
+            "lat": 33.4709698,
+            "lng": 39.813582
+          }
+        },
+        "Çelebi": {
+          "coords": {
+            "lat": 33.5244142,
+            "lng": 39.4636988
+          }
+        },
+        "Karakeçili": {
+          "coords": {
+            "lat": 33.382092,
+            "lng": 39.5925222
+          }
+        }
+      }
+    },
+    "Kırşehir": {
+      "coords": {
+        "lat": 34.1606334,
+        "lng": 39.1460997
+      },
+      "administrative_area_level_2s": {
+        "Mucur": {
+          "coords": {
+            "lat": 34.3800488,
+            "lng": 39.0602118
+          }
+        },
+        "Kaman": {
+          "coords": {
+            "lat": 33.7263509,
+            "lng": 39.3577785
+          }
+        },
+        "Çiçekdağı": {
+          "coords": {
+            "lat": 34.4158032,
+            "lng": 39.6035963
+          }
+        },
+        "Boztepe": {
+          "coords": {
+            "lat": 34.2639915,
+            "lng": 39.2716145
+          }
+        },
+        "Akpınar": {
+          "coords": {
+            "lat": 33.9639275,
+            "lng": 39.4479684
+          }
+        },
+        "Akçakent": {
+          "coords": {
+            "lat": 34.0979575,
+            "lng": 39.6257953
+          }
+        }
+      }
+    },
+    "Nevşehir": {
+      "coords": {
+        "lat": 34.7136022,
+        "lng": 38.6223688
+      },
+      "administrative_area_level_2s": {
+        "Ürgüp": {
+          "coords": {
+            "lat": 34.9115671,
+            "lng": 38.6304268
+          }
+        },
+        "Derinkuyu": {
+          "coords": {
+            "lat": 34.7340808,
+            "lng": 38.3730484
+          }
+        },
+        "Avanos": {
+          "coords": {
+            "lat": 34.8473376,
+            "lng": 38.7188631
+          }
+        },
+        "Hacıbektaş": {
+          "coords": {
+            "lat": 34.5608817,
+            "lng": 38.9428835
+          }
+        },
+        "Gülşehir": {
+          "coords": {
+            "lat": 34.6196588,
+            "lng": 38.7430321
+          }
+        },
+        "Acıgöl": {
+          "coords": {
+            "lat": 34.5067977,
+            "lng": 38.5491777
+          }
+        },
+        "Kozaklı": {
+          "coords": {
+            "lat": 34.8530249,
+            "lng": 39.2107681
+          }
+        }
+      }
+    },
+    "Niğde": {
+      "coords": {
+        "lat": 34.6775534,
+        "lng": 37.9712079
+      },
+      "administrative_area_level_2s": {
+        "Bor": {
+          "coords": {
+            "lat": 34.5606954,
+            "lng": 37.8880446
+          }
+        },
+        "Ulukışla": {
+          "coords": {
+            "lat": 34.4850742,
+            "lng": 37.5487232
+          }
+        },
+        "Altunhisar": {
+          "coords": {
+            "lat": 34.3729397,
+            "lng": 37.9989207
+          }
+        },
+        "Çamardı": {
+          "coords": {
+            "lat": 34.9894549,
+            "lng": 37.8340364
+          }
+        },
+        "Çiftlik": {
+          "coords": {
+            "lat": 34.4857641,
+            "lng": 38.1756748
+          }
+        }
+      }
+    },
+    "Sivas": {
+      "coords": {
+        "lat": 37.013697,
+        "lng": 39.749781
+      },
+      "administrative_area_level_2s": {
+        "İmranlı": {
+          "coords": {
+            "lat": 38.1129304,
+            "lng": 39.8760006
+          }
+        },
+        "Gürün": {
+          "coords": {
+            "lat": 37.2703202,
+            "lng": 38.7211857
+          }
+        },
+        "Ulaş": {
+          "coords": {
+            "lat": 37.0397895,
+            "lng": 39.4447613
+          }
+        },
+        "Şarkışla": {
+          "coords": {
+            "lat": 36.4110017,
+            "lng": 39.3523076
+          }
+        },
+        "Kangal": {
+          "coords": {
+            "lat": 37.3894279,
+            "lng": 39.2348329
+          }
+        },
+        "Zara": {
+          "coords": {
+            "lat": 37.759073,
+            "lng": 39.8972011
+          }
+        },
+        "Suşehri": {
+          "coords": {
+            "lat": 38.092338,
+            "lng": 40.1631715
+          }
+        },
+        "Gemerek": {
+          "coords": {
+            "lat": 36.0711044,
+            "lng": 39.1831222
+          }
+        },
+        "Yıldızeli": {
+          "coords": {
+            "lat": 36.5997287,
+            "lng": 39.8688781
+          }
+        },
+        "Divriği": {
+          "coords": {
+            "lat": 38.1178512,
+            "lng": 39.3713764
+          }
+        },
+        "Akıncılar": {
+          "coords": {
+            "lat": 38.3485706,
+            "lng": 40.0802476
+          }
+        },
+        "Doğanşar": {
+          "coords": {
+            "lat": 37.5365096,
+            "lng": 40.2142318
+          }
+        },
+        "Gölova": {
+          "coords": {
+            "lat": 38.6062344,
+            "lng": 40.0621834
+          }
+        },
+        "Hafik": {
+          "coords": {
+            "lat": 37.3898221,
+            "lng": 39.8573113
+          }
+        },
+        "Koyulhisar": {
+          "coords": {
+            "lat": 37.8311111,
+            "lng": 40.3005362
+          }
+        },
+        "Altınyayla": {
+          "coords": {
+            "lat": 36.7515122,
+            "lng": 39.2727799
+          }
+        }
+      }
+    },
+    "Yozgat": {
+      "coords": {
+        "lat": 34.8094917,
+        "lng": 39.8205571
+      },
+      "administrative_area_level_2s": {
+        "Yerköy": {
+          "coords": {
+            "lat": 34.467067,
+            "lng": 39.6388907
+          }
+        },
+        "Sorgun": {
+          "coords": {
+            "lat": 35.1854259,
+            "lng": 39.8101311
+          }
+        },
+        "Akdağmadeni": {
+          "coords": {
+            "lat": 35.8820234,
+            "lng": 39.6626502
+          }
+        },
+        "Boğazlıyan": {
+          "coords": {
+            "lat": 35.2478633,
+            "lng": 39.1910913
+          }
+        },
+        "Çekerek": {
+          "coords": {
+            "lat": 35.5072503,
+            "lng": 40.0649573
+          }
+        },
+        "Aydıncık": {
+          "coords": {
+            "lat": 35.2851606,
+            "lng": 40.1302516
+          }
+        },
+        "Sarıkaya": {
+          "coords": {
+            "lat": 35.3768723,
+            "lng": 39.4947165
+          }
+        },
+        "Çandır": {
+          "coords": {
+            "lat": 35.5138601,
+            "lng": 39.2446046
+          }
+        },
+        "Çayıralan": {
+          "coords": {
+            "lat": 35.6459653,
+            "lng": 39.3041026
+          }
+        },
+        "Şefaatli": {
+          "coords": {
+            "lat": 34.7565167,
+            "lng": 39.4960576
+          }
+        },
+        "Yenifakılı": {
+          "coords": {
+            "lat": 35.0027299,
+            "lng": 39.2116759
+          }
+        },
+        "Saraykent": {
+          "coords": {
+            "lat": 35.5102049,
+            "lng": 39.6936979
+          }
+        },
+        "Kadışehri": {
+          "coords": {
+            "lat": 35.7893731,
+            "lng": 39.9955751
+          }
+        }
+      }
+    },
+    "Amasya": {
+      "coords": {
+        "lat": 35.8338214,
+        "lng": 40.6502007
+      },
+      "administrative_area_level_2s": {
+        "Merzifon": {
+          "coords": {
+            "lat": 35.4586695,
+            "lng": 40.8695818
+          }
+        },
+        "Gümüşhacıköy": {
+          "coords": {
+            "lat": 35.2193641,
+            "lng": 40.8747777
+          }
+        },
+        "Suluova": {
+          "coords": {
+            "lat": 35.6507399,
+            "lng": 40.8280004
+          }
+        },
+        "Taşova": {
+          "coords": {
+            "lat": 36.3236658,
+            "lng": 40.7591482
+          }
+        },
+        "Hamamözü": {
+          "coords": {
+            "lat": 35.024334,
+            "lng": 40.7855496
+          }
+        },
+        "Göynücek": {
+          "coords": {
+            "lat": 35.5223988,
+            "lng": 40.3943314
+          }
+        }
+      }
+    },
+    "Artvin": {
+      "coords": {
+        "lat": 41.8278892,
+        "lng": 41.1831962
+      },
+      "administrative_area_level_2s": {
+        "Şavşat": {
+          "coords": {
+            "lat": 42.3568828,
+            "lng": 41.2524882
+          }
+        },
+        "Borçka": {
+          "coords": {
+            "lat": 41.6746739,
+            "lng": 41.3602455
+          }
+        },
+        "Hopa": {
+          "coords": {
+            "lat": 41.418046,
+            "lng": 41.39098
+          }
+        },
+        "Arhavi": {
+          "coords": {
+            "lat": 41.3096227,
+            "lng": 41.3528217
+          }
+        },
+        "Yusufeli": {
+          "coords": {
+            "lat": 41.5440847,
+            "lng": 40.8203512
+          }
+        },
+        "Ardanuç": {
+          "coords": {
+            "lat": 42.0684364,
+            "lng": 41.1218871
+          }
+        },
+        "Murgul": {
+          "coords": {
+            "lat": 41.5627063,
+            "lng": 41.2795614
+          }
+        }
+      }
+    },
+    "Bartın": {
+      "coords": {
+        "lat": 32.3384354,
+        "lng": 41.6338394
+      },
+      "administrative_area_level_2s": {
+        "Amasra": {
+          "coords": {
+            "lat": 32.3868555,
+            "lng": 41.7489944
+          }
+        },
+        "Kurucaşile": {
+          "coords": {
+            "lat": 32.7205632,
+            "lng": 41.8447523
+          }
+        },
+        "Ulus": {
+          "coords": {
+            "lat": 32.6358823,
+            "lng": 41.5815174
+          }
+        }
+      }
+    },
+    "Bayburt": {
+      "coords": {
+        "lat": 40.224099,
+        "lng": 40.25569
+      },
+      "administrative_area_level_2s": {
+        "Demirözü": {
+          "coords": {
+            "lat": 39.8912861,
+            "lng": 40.1630281
+          }
+        },
+        "Aydıntepe": {
+          "coords": {
+            "lat": 40.1481514,
+            "lng": 40.3898305
+          }
+        }
+      }
+    },
+    "Çorum": {
+      "coords": {
+        "lat": 34.9602453,
+        "lng": 40.5491496
+      },
+      "administrative_area_level_2s": {
+        "Sungurlu": {
+          "coords": {
+            "lat": 34.3787827,
+            "lng": 40.1652438
+          }
+        },
+        "Boğazkale": {
+          "coords": {
+            "lat": 34.6095892,
+            "lng": 40.0209956
+          }
+        },
+        "Alaca": {
+          "coords": {
+            "lat": 34.8414772,
+            "lng": 40.1690118
+          }
+        },
+        "Mecitözü": {
+          "coords": {
+            "lat": 35.2955252,
+            "lng": 40.5221326
+          }
+        },
+        "Osmancık": {
+          "coords": {
+            "lat": 34.8062245,
+            "lng": 40.9780582
+          }
+        },
+        "Uğurludağ": {
+          "coords": {
+            "lat": 34.4524895,
+            "lng": 40.4463082
+          }
+        },
+        "Dodurga": {
+          "coords": {
+            "lat": 34.8103307,
+            "lng": 40.8553068
+          }
+        },
+        "Oğuzlar": {
+          "coords": {
+            "lat": 34.7043298,
+            "lng": 40.7533702
+          }
+        },
+        "Laçin": {
+          "coords": {
+            "lat": 34.8850536,
+            "lng": 40.7742684
+          }
+        },
+        "Bayat": {
+          "coords": {
+            "lat": 34.2578964,
+            "lng": 40.6436179
+          }
+        },
+        "İskilip": {
+          "coords": {
+            "lat": 34.4733278,
+            "lng": 40.7312881
+          }
+        },
+        "Kargı": {
+          "coords": {
+            "lat": 34.4900436,
+            "lng": 41.1313939
+          }
+        },
+        "Ortaköy": {
+          "coords": {
+            "lat": 35.2538202,
+            "lng": 40.2730588
+          }
+        }
+      }
+    },
+    "Giresun": {
+      "coords": {
+        "lat": 38.3879289,
+        "lng": 40.9148702
+      },
+      "administrative_area_level_2s": {
+        "Eynesil": {
+          "coords": {
+            "lat": 39.1431562,
+            "lng": 41.0642236
+          }
+        },
+        "Görele": {
+          "coords": {
+            "lat": 38.998157,
+            "lng": 41.0325062
+          }
+        },
+        "Tirebolu": {
+          "coords": {
+            "lat": 38.8197358,
+            "lng": 41.0055568
+          }
+        },
+        "Bulancak": {
+          "coords": {
+            "lat": 38.2280555,
+            "lng": 40.93582
+          }
+        },
+        "Piraziz": {
+          "coords": {
+            "lat": 38.1247147,
+            "lng": 40.9520495
+          }
+        },
+        "Şebinkarahisar": {
+          "coords": {
+            "lat": 38.4213952,
+            "lng": 40.289559
+          }
+        },
+        "Alucra": {
+          "coords": {
+            "lat": 38.7643122,
+            "lng": 40.3203088
+          }
+        },
+        "Çamoluk": {
+          "coords": {
+            "lat": 38.7339764,
+            "lng": 40.1351681
+          }
+        },
+        "Çanakçı": {
+          "coords": {
+            "lat": 39.0093156,
+            "lng": 40.9169922
+          }
+        },
+        "Dereli": {
+          "coords": {
+            "lat": 38.4491121,
+            "lng": 40.7388646
+          }
+        },
+        "Doğankent": {
+          "coords": {
+            "lat": 38.9176877,
+            "lng": 40.807992
+          }
+        },
+        "Espiye": {
+          "coords": {
+            "lat": 38.7125213,
+            "lng": 40.9488641
+          }
+        },
+        "Güce": {
+          "coords": {
+            "lat": 38.8082218,
+            "lng": 40.8935227
+          }
+        },
+        "Keşap": {
+          "coords": {
+            "lat": 38.5138559,
+            "lng": 40.9151484
+          }
+        },
+        "Yağlıdere": {
+          "coords": {
+            "lat": 38.6260713,
+            "lng": 40.8603619
+          }
+        }
+      }
+    },
+    "Gümüşhane": {
+      "coords": {
+        "lat": 39.4757339,
+        "lng": 40.4617844
+      },
+      "administrative_area_level_2s": {
+        "Kelkit": {
+          "coords": {
+            "lat": 39.4343161,
+            "lng": 40.1305081
+          }
+        },
+        "Köse": {
+          "coords": {
+            "lat": 39.6542833,
+            "lng": 40.209611
+          }
+        },
+        "Şiran": {
+          "coords": {
+            "lat": 39.1252323,
+            "lng": 40.1898258
+          }
+        },
+        "Kürtün": {
+          "coords": {
+            "lat": 39.0873588,
+            "lng": 40.7020925
+          }
+        },
+        "Torul": {
+          "coords": {
+            "lat": 39.2933408,
+            "lng": 40.5586772
+          }
+        }
+      }
+    },
+    "Karabük": {
+      "coords": {
+        "lat": 32.6218583,
+        "lng": 41.1974459
+      },
+      "administrative_area_level_2s": {
+        "Safranbolu": {
+          "coords": {
+            "lat": 32.6929575,
+            "lng": 41.2456658
+          }
+        },
+        "Yenice": {
+          "coords": {
+            "lat": 32.3279252,
+            "lng": 41.2006661
+          }
+        },
+        "Eflani": {
+          "coords": {
+            "lat": 32.9583427,
+            "lng": 41.4216397
+          }
+        },
+        "Ovacık": {
+          "coords": {
+            "lat": 32.9192134,
+            "lng": 41.0765083
+          }
+        },
+        "Eskipazar": {
+          "coords": {
+            "lat": 32.5318074,
+            "lng": 40.9444144
+          }
+        }
+      }
+    },
+    "Kastamonu": {
+      "coords": {
+        "lat": 33.7770087,
+        "lng": 41.3765359
+      },
+      "administrative_area_level_2s": {
+        "Cide": {
+          "coords": {
+            "lat": 33.0050917,
+            "lng": 41.891831
+          }
+        },
+        "Doğanyurt": {
+          "coords": {
+            "lat": 33.4604573,
+            "lng": 42.005597
+          }
+        },
+        "İnebolu": {
+          "coords": {
+            "lat": 33.7599031,
+            "lng": 41.9785763
+          }
+        },
+        "Abana": {
+          "coords": {
+            "lat": 34.0081192,
+            "lng": 41.9781565
+          }
+        },
+        "Çatalzeytin": {
+          "coords": {
+            "lat": 34.2226751,
+            "lng": 41.9531105
+          }
+        },
+        "Tosya": {
+          "coords": {
+            "lat": 34.0376895,
+            "lng": 41.0181302
+          }
+        },
+        "Küre": {
+          "coords": {
+            "lat": 33.7116896,
+            "lng": 41.8038758
+          }
+        },
+        "Taşköprü": {
+          "coords": {
+            "lat": 34.2124908,
+            "lng": 41.5092008
+          }
+        },
+        "Araç": {
+          "coords": {
+            "lat": 33.3249912,
+            "lng": 41.2431085
+          }
+        },
+        "Azdavay": {
+          "coords": {
+            "lat": 33.3009356,
+            "lng": 41.6420759
+          }
+        },
+        "Bozkurt": {
+          "coords": {
+            "lat": 34.011602,
+            "lng": 41.959048
+          }
+        },
+        "Daday": {
+          "coords": {
+            "lat": 33.4637485,
+            "lng": 41.4751559
+          }
+        },
+        "Devrekâni": {
+          "coords": {
+            "lat": 33.8370923,
+            "lng": 41.6025639
+          }
+        },
+        "Hanönü": {
+          "coords": {
+            "lat": 34.4680011,
+            "lng": 41.6255724
+          }
+        },
+        "İhsangazi": {
+          "coords": {
+            "lat": 33.5559175,
+            "lng": 41.2040122
+          }
+        },
+        "Pınarbaşı": {
+          "coords": {
+            "lat": 33.1108755,
+            "lng": 41.6036031
+          }
+        },
+        "Şenpazar": {
+          "coords": {
+            "lat": 33.2328731,
+            "lng": 41.8085991
+          }
+        },
+        "Seydiler": {
+          "coords": {
+            "lat": 33.719144,
+            "lng": 41.6193329
+          }
+        },
+        "Ağlı": {
+          "coords": {
+            "lat": 33.5537946,
+            "lng": 41.6871527
+          }
+        }
+      }
+    },
+    "Ordu": {
+      "coords": {
+        "lat": 37.8839101,
+        "lng": 40.9805304
+      },
+      "administrative_area_level_2s": {
+        "Perşembe": {
+          "coords": {
+            "lat": 37.7736318,
+            "lng": 41.0669482
+          }
+        },
+        "Fatsa": {
+          "coords": {
+            "lat": 37.4998808,
+            "lng": 41.0294489
+          }
+        },
+        "Ünye": {
+          "coords": {
+            "lat": 37.2853581,
+            "lng": 41.1262405
+          }
+        },
+        "İkizce": {
+          "coords": {
+            "lat": 37.0780462,
+            "lng": 41.053285
+          }
+        },
+        "Çaybaşı": {
+          "coords": {
+            "lat": 37.0976382,
+            "lng": 41.0125355
+          }
+        },
+        "Akkuş": {
+          "coords": {
+            "lat": 37.0177445,
+            "lng": 40.7924952
+          }
+        },
+        "Aybastı": {
+          "coords": {
+            "lat": 37.3991133,
+            "lng": 40.6846113
+          }
+        },
+        "Çamaş": {
+          "coords": {
+            "lat": 37.5286507,
+            "lng": 40.90253
+          }
+        },
+        "Gölköy": {
+          "coords": {
+            "lat": 37.6145162,
+            "lng": 40.6873698
+          }
+        },
+        "Gürgentepe": {
+          "coords": {
+            "lat": 37.601495,
+            "lng": 40.7884633
+          }
+        },
+        "Kabadüz": {
+          "coords": {
+            "lat": 37.8906149,
+            "lng": 40.8590752
+          }
+        },
+        "Gülyalı": {
+          "coords": {
+            "lat": 38.0593466,
+            "lng": 40.9659704
+          }
+        },
+        "Korgan": {
+          "coords": {
+            "lat": 37.3441414,
+            "lng": 40.8295581
+          }
+        },
+        "Kumru": {
+          "coords": {
+            "lat": 37.2600453,
+            "lng": 40.8719806
+          }
+        },
+        "Mesudiye": {
+          "coords": {
+            "lat": 37.7739737,
+            "lng": 40.463987
+          }
+        },
+        "Ulubey": {
+          "coords": {
+            "lat": 37.7590306,
+            "lng": 40.8736525
+          }
+        },
+        "Kabataş": {
+          "coords": {
+            "lat": 37.4498616,
+            "lng": 40.7515493
+          }
+        },
+        "Çatalpınar": {
+          "coords": {
+            "lat": 37.4532261,
+            "lng": 40.8779232
+          }
+        }
+      }
+    },
+    "Rize": {
+      "coords": {
+        "lat": 40.519612,
+        "lng": 41.022809
+      },
+      "administrative_area_level_2s": {
+        "Fındıklı": {
+          "coords": {
+            "lat": 41.1391408,
+            "lng": 41.2675045
+          }
+        },
+        "Ardeşen": {
+          "coords": {
+            "lat": 40.9879431,
+            "lng": 41.1922051
+          }
+        },
+        "Pazar": {
+          "coords": {
+            "lat": 40.887035,
+            "lng": 41.1801248
+          }
+        },
+        "Çayeli": {
+          "coords": {
+            "lat": 40.7264374,
+            "lng": 41.0893465
+          }
+        },
+        "Derepazarı": {
+          "coords": {
+            "lat": 40.4258835,
+            "lng": 41.0243121
+          }
+        },
+        "İyidere": {
+          "coords": {
+            "lat": 40.3616864,
+            "lng": 41.0118867
+          }
+        },
+        "Çamlıhemşin": {
+          "coords": {
+            "lat": 41.0039417,
+            "lng": 41.0491723
+          }
+        },
+        "Güneysu": {
+          "coords": {
+            "lat": 40.6153527,
+            "lng": 40.9780358
+          }
+        },
+        "Hemşin": {
+          "coords": {
+            "lat": 40.8987978,
+            "lng": 41.0475214
+          }
+        },
+        "İkizdere": {
+          "coords": {
+            "lat": 40.5584581,
+            "lng": 40.779738
+          }
+        },
+        "Kalkandere": {
+          "coords": {
+            "lat": 40.4418805,
+            "lng": 40.9283528
+          }
+        }
+      }
+    },
+    "Samsun": {
+      "coords": {
+        "lat": 36.3258984,
+        "lng": 41.2893535
+      },
+      "administrative_area_level_2s": {
+        "Yakakent": {
+          "coords": {
+            "lat": 35.5315896,
+            "lng": 41.6329513
+          }
+        },
+        "Alaçam": {
+          "coords": {
+            "lat": 35.5973316,
+            "lng": 41.6068635
+          }
+        },
+        "Bafra": {
+          "coords": {
+            "lat": 35.9072348,
+            "lng": 41.5650555
+          }
+        },
+        "Terme": {
+          "coords": {
+            "lat": 36.9721494,
+            "lng": 41.2090283
+          }
+        },
+        "Kavak": {
+          "coords": {
+            "lat": 36.0294738,
+            "lng": 41.0717757
+          }
+        },
+        "Ladik": {
+          "coords": {
+            "lat": 35.8957156,
+            "lng": 40.9087789
+          }
+        },
+        "Havza": {
+          "coords": {
+            "lat": 35.6653476,
+            "lng": 40.9660605
+          }
+        },
+        "Çarşamba": {
+          "coords": {
+            "lat": 36.7289508,
+            "lng": 41.198283
+          }
+        },
+        "Ayvacık": {
+          "coords": {
+            "lat": 36.6300586,
+            "lng": 40.9895707
+          }
+        },
+        "Salıpazarı": {
+          "coords": {
+            "lat": 36.8264848,
+            "lng": 41.0820528
+          }
+        },
+        "Vezirköprü": {
+          "coords": {
+            "lat": 35.4631336,
+            "lng": 41.1433526
+          }
+        },
+        "Ondokuzmayıs": {
+          "coords": {
+            "lat": 36.0778884,
+            "lng": 41.4936379
+          }
+        },
+        "Asarcık": {
+          "coords": {
+            "lat": 36.2344634,
+            "lng": 41.0361392
+          }
+        },
+        "Atakum": {
+          "coords": {
+            "lat": 36.2952542,
+            "lng": 41.3234213
+          }
+        },
+        "Canik": {
+          "coords": {
+            "lat": 36.3556442,
+            "lng": 41.2673784
+          }
+        },
+        "İlkadım": {
+          "coords": {
+            "lat": 36.3343047,
+            "lng": 41.2854472
+          }
+        },
+        "Tekkeköy": {
+          "coords": {
+            "lat": 36.4622078,
+            "lng": 41.213701
+          }
+        }
+      }
+    },
+    "Sinop": {
+      "coords": {
+        "lat": 35.1506765,
+        "lng": 42.0266698
+      },
+      "administrative_area_level_2s": {
+        "Türkeli": {
+          "coords": {
+            "lat": 34.336084,
+            "lng": 41.9489366
+          }
+        },
+        "Ayancık": {
+          "coords": {
+            "lat": 34.5895617,
+            "lng": 41.9364461
+          }
+        },
+        "Gerze": {
+          "coords": {
+            "lat": 35.1996164,
+            "lng": 41.8032697
+          }
+        },
+        "Boyabat": {
+          "coords": {
+            "lat": 34.7672274,
+            "lng": 41.4689736
+          }
+        },
+        "Durağan": {
+          "coords": {
+            "lat": 35.0558096,
+            "lng": 41.4179668
+          }
+        },
+        "Erfelek": {
+          "coords": {
+            "lat": 34.9081124,
+            "lng": 41.8799359
+          }
+        },
+        "Dikmen": {
+          "coords": {
+            "lat": 35.2650575,
+            "lng": 41.6516239
+          }
+        },
+        "Saraydüzü": {
+          "coords": {
+            "lat": 34.8489545,
+            "lng": 41.3293374
+          }
+        }
+      }
+    },
+    "Tokat": {
+      "coords": {
+        "lat": 36.55403,
+        "lng": 40.32648
+      },
+      "administrative_area_level_2s": {
+        "Turhal": {
+          "coords": {
+            "lat": 36.0807507,
+            "lng": 40.3842327
+          }
+        },
+        "Zile": {
+          "coords": {
+            "lat": 35.8855764,
+            "lng": 40.3000457
+          }
+        },
+        "Erbaa": {
+          "coords": {
+            "lat": 36.5640432,
+            "lng": 40.6725657
+          }
+        },
+        "Reşadiye": {
+          "coords": {
+            "lat": 37.3388711,
+            "lng": 40.3917236
+          }
+        },
+        "Almus": {
+          "coords": {
+            "lat": 36.9031768,
+            "lng": 40.3758068
+          }
+        },
+        "Niksar": {
+          "coords": {
+            "lat": 36.9454715,
+            "lng": 40.5919159
+          }
+        },
+        "Başçiftlik": {
+          "coords": {
+            "lat": 37.1683222,
+            "lng": 40.5469067
+          }
+        },
+        "Sulusaray": {
+          "coords": {
+            "lat": 36.0827505,
+            "lng": 39.9964268
+          }
+        },
+        "Pazar": {
+          "coords": {
+            "lat": 36.2855767,
+            "lng": 40.2764113
+          }
+        },
+        "Artova": {
+          "coords": {
+            "lat": 36.2929466,
+            "lng": 40.118124
+          }
+        },
+        "Yeşilyurt": {
+          "coords": {
+            "lat": 36.2194325,
+            "lng": 40.0072965
+          }
+        }
+      }
+    },
+    "Zonguldak": {
+      "coords": {
+        "lat": 31.7884596,
+        "lng": 41.4524668
+      },
+      "administrative_area_level_2s": {
+        "Karadeniz Ereğli": {
+          "coords": {
+            "lat": 31.421792,
+            "lng": 41.2794917
+          }
+        },
+        "Devrek": {
+          "coords": {
+            "lat": 31.9573472,
+            "lng": 41.2182258
+          }
+        },
+        "Çaycuma": {
+          "coords": {
+            "lat": 32.0744202,
+            "lng": 41.4281028
+          }
+        },
+        "Alaplı": {
+          "coords": {
+            "lat": 31.3873334,
+            "lng": 41.1814074
+          }
+        },
+        "Gökçebey": {
+          "coords": {
+            "lat": 32.1441688,
+            "lng": 41.306058
+          }
+        },
+        "Kilimli": {
+          "coords": {
+            "lat": 31.8440747,
+            "lng": 41.4907787
+          }
+        },
+        "Kozlu": {
+          "coords": {
+            "lat": 31.7397435,
+            "lng": 41.431145
+          }
+        }
+      }
+    },
+    "Ağrı": {
+      "coords": {
+        "lat": 43.0500388,
+        "lng": 39.7201318
+      },
+      "administrative_area_level_2s": {
+        "Doğubayazıt": {
+          "coords": {
+            "lat": 44.0804938,
+            "lng": 39.5482278
+          }
+        },
+        "Patnos": {
+          "coords": {
+            "lat": 42.8612338,
+            "lng": 39.2334202
+          }
+        },
+        "Diyadin": {
+          "coords": {
+            "lat": 43.6706008,
+            "lng": 39.5409422
+          }
+        },
+        "Tutak": {
+          "coords": {
+            "lat": 42.7721896,
+            "lng": 39.5387835
+          }
+        },
+        "Hamur": {
+          "coords": {
+            "lat": 42.9886979,
+            "lng": 39.6086916
+          }
+        },
+        "Taşlıçay": {
+          "coords": {
+            "lat": 43.3774324,
+            "lng": 39.6331576
+          }
+        },
+        "Eleşkirt": {
+          "coords": {
+            "lat": 42.6754699,
+            "lng": 39.7983792
+          }
+        }
+      }
+    },
+    "Ardahan": {
+      "coords": {
+        "lat": 42.7035585,
+        "lng": 41.1102966
+      },
+      "administrative_area_level_2s": {
+        "Çıldır": {
+          "coords": {
+            "lat": 43.1345966,
+            "lng": 41.1265837
+          }
+        },
+        "Posof": {
+          "coords": {
+            "lat": 42.7279524,
+            "lng": 41.5083775
+          }
+        },
+        "Damal": {
+          "coords": {
+            "lat": 42.8409953,
+            "lng": 41.3423313
+          }
+        },
+        "Göle": {
+          "coords": {
+            "lat": 42.6088756,
+            "lng": 40.7930708
+          }
+        },
+        "Hanak": {
+          "coords": {
+            "lat": 42.8453768,
+            "lng": 41.2362104
+          }
+        }
+      }
+    },
+    "Bingöl": {
+      "coords": {
+        "lat": 40.4965998,
+        "lng": 38.8851831
+      },
+      "administrative_area_level_2s": {}
+    },
+    "Bitlis": {
+      "coords": {
+        "lat": 42.1081317,
+        "lng": 38.4002185
+      },
+      "administrative_area_level_2s": {
+        "Tatvan": {
+          "coords": {
+            "lat": 42.2812237,
+            "lng": 38.5021223
+          }
+        },
+        "Ahlat": {
+          "coords": {
+            "lat": 42.4863566,
+            "lng": 38.7543378
+          }
+        },
+        "Adilcevaz": {
+          "coords": {
+            "lat": 42.7343288,
+            "lng": 38.8046114
+          }
+        },
+        "Hizan": {
+          "coords": {
+            "lat": 42.4217851,
+            "lng": 38.223688
+          }
+        },
+        "Güroymak": {
+          "coords": {
+            "lat": 42.0178828,
+            "lng": 38.5779954
+          }
+        },
+        "Mutki": {
+          "coords": {
+            "lat": 41.9240147,
+            "lng": 38.4091584
+          }
+        }
+      }
+    },
+    "Elazığ": {
+      "coords": {
+        "lat": 39.221849,
+        "lng": 38.676303
+      },
+      "administrative_area_level_2s": {
+        "Sivrice": {
+          "coords": {
+            "lat": 39.3082646,
+            "lng": 38.4474169
+          }
+        },
+        "Kovancılar": {
+          "coords": {
+            "lat": 39.8659125,
+            "lng": 38.7189254
+          }
+        },
+        "Karakoçan": {
+          "coords": {
+            "lat": 40.0380269,
+            "lng": 38.9564458
+          }
+        },
+        "Maden": {
+          "coords": {
+            "lat": 39.6702313,
+            "lng": 38.3932271
+          }
+        },
+        "Keban": {
+          "coords": {
+            "lat": 38.7397153,
+            "lng": 38.7939859
+          }
+        },
+        "Palu": {
+          "coords": {
+            "lat": 39.9288811,
+            "lng": 38.6934846
+          }
+        },
+        "Ağın": {
+          "coords": {
+            "lat": 38.7139084,
+            "lng": 38.9442217
+          }
+        },
+        "Alacakaya": {
+          "coords": {
+            "lat": 39.8625188,
+            "lng": 38.4630118
+          }
+        },
+        "Arıcak": {
+          "coords": {
+            "lat": 40.1357617,
+            "lng": 38.5641706
+          }
+        },
+        "Baskil": {
+          "coords": {
+            "lat": 38.8219713,
+            "lng": 38.5690184
+          }
+        }
+      }
+    },
+    "Muş": {
+      "coords": {
+        "lat": 41.4967451,
+        "lng": 38.7403703
+      },
+      "administrative_area_level_2s": {
+        "Malazgirt": {
+          "coords": {
+            "lat": 42.5409459,
+            "lng": 39.1461406
+          }
+        },
+        "Bulanık": {
+          "coords": {
+            "lat": 42.2703208,
+            "lng": 39.0911011
+          }
+        },
+        "Varto": {
+          "coords": {
+            "lat": 41.4546645,
+            "lng": 39.1720873
+          }
+        },
+        "Hasköy": {
+          "coords": {
+            "lat": 41.6885287,
+            "lng": 38.6826159
+          }
+        },
+        "Korkut": {
+          "coords": {
+            "lat": 41.7843731,
+            "lng": 38.7382526
+          }
+        }
+      }
+    },
+    "Erzincan": {
+      "coords": {
+        "lat": 39.4941023,
+        "lng": 39.7496052
+      },
+      "administrative_area_level_2s": {
+        "Tercan": {
+          "coords": {
+            "lat": 40.3827409,
+            "lng": 39.7785186
+          }
+        },
+        "Kemaliye": {
+          "coords": {
+            "lat": 38.4965266,
+            "lng": 39.2620966
+          }
+        },
+        "Kemah": {
+          "coords": {
+            "lat": 39.0350069,
+            "lng": 39.6017666
+          }
+        },
+        "İliç": {
+          "coords": {
+            "lat": 38.5651998,
+            "lng": 39.4553469
+          }
+        },
+        "Üzümlü": {
+          "coords": {
+            "lat": 39.7019601,
+            "lng": 39.709354
+          }
+        },
+        "Otlukbeli": {
+          "coords": {
+            "lat": 40.0216762,
+            "lng": 39.9719481
+          }
+        },
+        "Çayırlı": {
+          "coords": {
+            "lat": 40.0371836,
+            "lng": 39.8040818
+          }
+        },
+        "Refahiye": {
+          "coords": {
+            "lat": 38.7681749,
+            "lng": 39.9027528
+          }
+        }
+      }
+    },
+    "Erzurum": {
+      "coords": {
+        "lat": 41.2727638,
+        "lng": 39.9063215
+      },
+      "administrative_area_level_2s": {
+        "Horasan": {
+          "coords": {
+            "lat": 42.164412,
+            "lng": 40.0404204
+          }
+        },
+        "Aşkale": {
+          "coords": {
+            "lat": 40.6954019,
+            "lng": 39.9243063
+          }
+        },
+        "Hınıs": {
+          "coords": {
+            "lat": 41.6993763,
+            "lng": 39.3590588
+          }
+        },
+        "Karayazı": {
+          "coords": {
+            "lat": 42.1439792,
+            "lng": 39.7029641
+          }
+        },
+        "Tekman": {
+          "coords": {
+            "lat": 41.5087199,
+            "lng": 39.6463512
+          }
+        },
+        "İspir": {
+          "coords": {
+            "lat": 40.9999611,
+            "lng": 40.4833781
+          }
+        },
+        "Çat": {
+          "coords": {
+            "lat": 40.9774811,
+            "lng": 39.6105894
+          }
+        },
+        "Karaçoban": {
+          "coords": {
+            "lat": 42.1116256,
+            "lng": 39.35049
+          }
+        },
+        "Köprüköy": {
+          "coords": {
+            "lat": 41.8727887,
+            "lng": 39.9706367
+          }
+        },
+        "Narman": {
+          "coords": {
+            "lat": 41.8670433,
+            "lng": 40.346206
+          }
+        },
+        "Oltu": {
+          "coords": {
+            "lat": 41.9944913,
+            "lng": 40.5483043
+          }
+        },
+        "Olur": {
+          "coords": {
+            "lat": 42.131829,
+            "lng": 40.82741
+          }
+        },
+        "Pasinler": {
+          "coords": {
+            "lat": 41.674491,
+            "lng": 39.9773129
+          }
+        },
+        "Şenkaya": {
+          "coords": {
+            "lat": 42.3452105,
+            "lng": 40.5617111
+          }
+        },
+        "Tortum": {
+          "coords": {
+            "lat": 41.5494942,
+            "lng": 40.2968182
+          }
+        },
+        "Uzundere": {
+          "coords": {
+            "lat": 41.5489636,
+            "lng": 40.5319562
+          }
+        },
+        "Pazaryolu": {
+          "coords": {
+            "lat": 40.7729619,
+            "lng": 40.4143041
+          }
+        },
+        "Yakutiye": {
+          "coords": {
+            "lat": 41.2670243,
+            "lng": 39.904169
+          }
+        },
+        "Aziziye": {
+          "coords": {
+            "lat": 41.1058651,
+            "lng": 39.9489027
+          }
+        },
+        "Palandöken": {
+          "coords": {
+            "lat": 41.2733226,
+            "lng": 39.8904568
+          }
+        }
+      }
+    },
+    "Kars": {
+      "coords": {
+        "lat": 43.0961734,
+        "lng": 40.605158
+      },
+      "administrative_area_level_2s": {
+        "Digor": {
+          "coords": {
+            "lat": 43.4096327,
+            "lng": 40.376049
+          }
+        },
+        "Akyaka": {
+          "coords": {
+            "lat": 43.625172,
+            "lng": 40.7413648
+          }
+        },
+        "Kağızman": {
+          "coords": {
+            "lat": 43.1207958,
+            "lng": 40.1424117
+          }
+        },
+        "Selim": {
+          "coords": {
+            "lat": 42.7922096,
+            "lng": 40.462611
+          }
+        },
+        "Sarıkamış": {
+          "coords": {
+            "lat": 42.5900935,
+            "lng": 40.3342734
+          }
+        },
+        "Susuz": {
+          "coords": {
+            "lat": 43.1331291,
+            "lng": 40.7792636
+          }
+        },
+        "Arpaçay": {
+          "coords": {
+            "lat": 43.3300703,
+            "lng": 40.849086
+          }
+        }
+      }
+    },
+    "Malatya": {
+      "coords": {
+        "lat": 38.309269,
+        "lng": 38.350261
+      },
+      "administrative_area_level_2s": {
+        "Doğanşehir": {
+          "coords": {
+            "lat": 37.8781913,
+            "lng": 38.0934155
+          }
+        },
+        "Battalgazi": {
+          "coords": {
+            "lat": 38.3355647,
+            "lng": 38.3451518
+          }
+        },
+        "Arapgir": {
+          "coords": {
+            "lat": 38.4898342,
+            "lng": 39.0422423
+          }
+        },
+        "Arguvan": {
+          "coords": {
+            "lat": 38.2642877,
+            "lng": 38.7820616
+          }
+        },
+        "Hekimhan": {
+          "coords": {
+            "lat": 37.9315106,
+            "lng": 38.8165844
+          }
+        },
+        "Kuluncak": {
+          "coords": {
+            "lat": 37.6698914,
+            "lng": 38.8818035
+          }
+        },
+        "Akçadağ": {
+          "coords": {
+            "lat": 37.9689388,
+            "lng": 38.3446046
+          }
+        },
+        "Doğanyol": {
+          "coords": {
+            "lat": 39.038417,
+            "lng": 38.3097064
+          }
+        },
+        "Kale": {
+          "coords": {
+            "lat": 38.768329,
+            "lng": 38.4180789
+          }
+        },
+        "Pütürge": {
+          "coords": {
+            "lat": 38.8704206,
+            "lng": 38.1971526
+          }
+        },
+        "Yazıhan": {
+          "coords": {
+            "lat": 38.18103,
+            "lng": 38.5956614
+          }
+        },
+        "Yeşilyurt": {
+          "coords": {
+            "lat": 38.2509238,
+            "lng": 38.2972222
+          }
+        },
+        "Darende": {
+          "coords": {
+            "lat": 37.4912387,
+            "lng": 38.5582386
+          }
+        }
+      }
+    },
+    "Tunceli": {
+      "coords": {
+        "lat": 39.548197,
+        "lng": 39.1080631
+      },
+      "administrative_area_level_2s": {
+        "Mazgirt": {
+          "coords": {
+            "lat": 39.6051616,
+            "lng": 39.0196359
+          }
+        },
+        "Pertek": {
+          "coords": {
+            "lat": 39.3238097,
+            "lng": 38.8665161
+          }
+        },
+        "Hozat": {
+          "coords": {
+            "lat": 39.2193452,
+            "lng": 39.1082412
+          }
+        },
+        "Çemişgezek": {
+          "coords": {
+            "lat": 38.9128277,
+            "lng": 39.0631329
+          }
+        },
+        "Nazımiye": {
+          "coords": {
+            "lat": 39.8318039,
+            "lng": 39.1804059
+          }
+        },
+        "Ovacık": {
+          "coords": {
+            "lat": 39.2143809,
+            "lng": 39.3583047
+          }
+        },
+        "Pülümür": {
+          "coords": {
+            "lat": 39.8985207,
+            "lng": 39.4869645
+          }
+        }
+      }
+    },
+    "Adıyaman": {
+      "coords": {
+        "lat": 38.2764355,
+        "lng": 37.7640008
+      },
+      "administrative_area_level_2s": {
+        "Kahta": {
+          "coords": {
+            "lat": 38.6216428,
+            "lng": 37.7825341
+          }
+        },
+        "Besni": {
+          "coords": {
+            "lat": 37.8626172,
+            "lng": 37.6917263
+          }
+        },
+        "Gölbaşı": {
+          "coords": {
+            "lat": 37.6406016,
+            "lng": 37.7837897
+          }
+        },
+        "Tut": {
+          "coords": {
+            "lat": 37.9155276,
+            "lng": 37.7951202
+          }
+        },
+        "Çelikhan": {
+          "coords": {
+            "lat": 38.2446824,
+            "lng": 38.0328407
+          }
+        },
+        "Gerger": {
+          "coords": {
+            "lat": 39.0351173,
+            "lng": 38.0286587
+          }
+        },
+        "Samsat": {
+          "coords": {
+            "lat": 38.4823319,
+            "lng": 37.5812429
+          }
+        },
+        "Sincik": {
+          "coords": {
+            "lat": 38.6196259,
+            "lng": 38.0288459
+          }
+        }
+      }
+    },
+    "Batman": {
+      "coords": {
+        "lat": 41.1279423,
+        "lng": 37.8838505
+      },
+      "administrative_area_level_2s": {
+        "Hasankeyf": {
+          "coords": {
+            "lat": 41.4133259,
+            "lng": 37.713563
+          }
+        },
+        "Gercüş": {
+          "coords": {
+            "lat": 41.3855947,
+            "lng": 37.565861
+          }
+        },
+        "Kozluk": {
+          "coords": {
+            "lat": 41.4967873,
+            "lng": 38.1704423
+          }
+        },
+        "Beşiri": {
+          "coords": {
+            "lat": 41.2918055,
+            "lng": 37.9178999
+          }
+        },
+        "Sason": {
+          "coords": {
+            "lat": 41.4193088,
+            "lng": 38.3336871
+          }
+        }
+      }
+    },
+    "Diyarbakır": {
+      "coords": {
+        "lat": 40.2226158,
+        "lng": 37.9166031
+      },
+      "administrative_area_level_2s": {
+        "Çınar": {
+          "coords": {
+            "lat": 40.4151087,
+            "lng": 37.7236768
+          }
+        },
+        "Bismil": {
+          "coords": {
+            "lat": 40.6647242,
+            "lng": 37.8510666
+          }
+        },
+        "Silvan": {
+          "coords": {
+            "lat": 41.0086036,
+            "lng": 38.1397802
+          }
+        },
+        "Hani": {
+          "coords": {
+            "lat": 40.3936549,
+            "lng": 38.4127864
+          }
+        },
+        "Lice": {
+          "coords": {
+            "lat": 40.646436,
+            "lng": 38.4580016
+          }
+        },
+        "Ergani": {
+          "coords": {
+            "lat": 39.7621209,
+            "lng": 38.266882
+          }
+        },
+        "Eğil": {
+          "coords": {
+            "lat": 40.0828386,
+            "lng": 38.258477
+          }
+        },
+        "Çermik": {
+          "coords": {
+            "lat": 39.4524896,
+            "lng": 38.1361239
+          }
+        },
+        "Çüngüş": {
+          "coords": {
+            "lat": 39.2880409,
+            "lng": 38.2127123
+          }
+        },
+        "Dicle": {
+          "coords": {
+            "lat": 40.074324,
+            "lng": 38.3748604
+          }
+        },
+        "Hazro": {
+          "coords": {
+            "lat": 40.7815427,
+            "lng": 38.2540913
+          }
+        },
+        "Kocaköy": {
+          "coords": {
+            "lat": 40.5017416,
+            "lng": 38.2890153
+          }
+        },
+        "Kulp": {
+          "coords": {
+            "lat": 41.0105263,
+            "lng": 38.4992635
+          }
+        },
+        "Bağlar": {
+          "coords": {
+            "lat": 40.1931443,
+            "lng": 37.9252413
+          }
+        },
+        "Kayapınar": {
+          "coords": {
+            "lat": 40.1709204,
+            "lng": 37.9481807
+          }
+        },
+        "Yenişehir": {
+          "coords": {
+            "lat": 40.224687,
+            "lng": 37.9226158
+          }
+        },
+        "Sur": {
+          "coords": {
+            "lat": 40.2366079,
+            "lng": 37.9112197
+          }
+        }
+      }
+    },
+    "Gaziantep": {
+      "coords": {
+        "lat": 37.3793085,
+        "lng": 37.0611756
+      },
+      "administrative_area_level_2s": {
+        "Nurdağı": {
+          "coords": {
+            "lat": 36.7414407,
+            "lng": 37.178612
+          }
+        },
+        "İslahiye": {
+          "coords": {
+            "lat": 36.6327067,
+            "lng": 37.0254332
+          }
+        },
+        "Nizip": {
+          "coords": {
+            "lat": 37.7931734,
+            "lng": 37.0108864
+          }
+        },
+        "Araban": {
+          "coords": {
+            "lat": 37.6891987,
+            "lng": 37.4259312
+          }
+        },
+        "Yavuzeli": {
+          "coords": {
+            "lat": 37.5685072,
+            "lng": 37.3176328
+          }
+        },
+        "Oğuzeli": {
+          "coords": {
+            "lat": 37.5125371,
+            "lng": 36.9638703
+          }
+        },
+        "Karkamış": {
+          "coords": {
+            "lat": 37.9996908,
+            "lng": 36.8346352
+          }
+        },
+        "Şehitkamil": {
+          "coords": {
+            "lat": 37.3672402,
+            "lng": 37.0794498
+          }
+        },
+        "Şahinbey": {
+          "coords": {
+            "lat": 37.3801976,
+            "lng": 37.0418989
+          }
+        }
+      }
+    },
+    "Kilis": {
+      "coords": {
+        "lat": 37.11688,
+        "lng": 36.718045
+      },
+      "administrative_area_level_2s": {
+        "Musabeyli": {
+          "coords": {
+            "lat": 36.915641,
+            "lng": 36.885432
+          }
+        },
+        "Polateli": {
+          "coords": {
+            "lat": 37.143582,
+            "lng": 36.8415095
+          }
+        },
+        "Elbeyli": {
+          "coords": {
+            "lat": 37.4669854,
+            "lng": 36.6749549
+          }
+        }
+      }
+    },
+    "Mardin": {
+      "coords": {
+        "lat": 40.7251509,
+        "lng": 37.326634
+      },
+      "administrative_area_level_2s": {
+        "Kızıltepe": {
+          "coords": {
+            "lat": 40.5837971,
+            "lng": 37.1920597
+          }
+        },
+        "Nusaybin": {
+          "coords": {
+            "lat": 41.2208579,
+            "lng": 37.0855695
+          }
+        },
+        "Midyat": {
+          "coords": {
+            "lat": 41.3637485,
+            "lng": 37.4172015
+          }
+        },
+        "Ömerli": {
+          "coords": {
+            "lat": 40.9551681,
+            "lng": 37.4019449
+          }
+        },
+        "Yeşilli": {
+          "coords": {
+            "lat": 40.8230762,
+            "lng": 37.3385445
+          }
+        },
+        "Derik": {
+          "coords": {
+            "lat": 40.2694738,
+            "lng": 37.3648746
+          }
+        },
+        "Mazıdağı": {
+          "coords": {
+            "lat": 40.4892856,
+            "lng": 37.4768828
+          }
+        },
+        "Savur": {
+          "coords": {
+            "lat": 40.8873547,
+            "lng": 37.5368348
+          }
+        },
+        "Dargeçit": {
+          "coords": {
+            "lat": 41.7215532,
+            "lng": 37.5455264
+          }
+        },
+        "Artuklu": {
+          "coords": {
+            "lat": 40.7387057,
+            "lng": 37.3135557
+          }
+        }
+      }
+    },
+    "Şanlıurfa": {
+      "coords": {
+        "lat": 38.7909159,
+        "lng": 37.160388
+      },
+      "administrative_area_level_2s": {
+        "Birecik": {
+          "coords": {
+            "lat": 37.9791414,
+            "lng": 37.0282032
+          }
+        },
+        "Halfeti": {
+          "coords": {
+            "lat": 37.8694298,
+            "lng": 37.2440238
+          }
+        },
+        "Suruç": {
+          "coords": {
+            "lat": 38.4242178,
+            "lng": 36.9755424
+          }
+        },
+        "Harran": {
+          "coords": {
+            "lat": 39.0253498,
+            "lng": 36.8682145
+          }
+        },
+        "Viranşehir": {
+          "coords": {
+            "lat": 39.7664264,
+            "lng": 37.2288119
+          }
+        },
+        "Ceylanpınar": {
+          "coords": {
+            "lat": 40.0495604,
+            "lng": 36.8495089
+          }
+        },
+        "Siverek": {
+          "coords": {
+            "lat": 39.316963,
+            "lng": 37.7549194
+          }
+        },
+        "Hilvan": {
+          "coords": {
+            "lat": 38.9567316,
+            "lng": 37.586025
+          }
+        },
+        "Bozova": {
+          "coords": {
+            "lat": 38.5253465,
+            "lng": 37.361986
+          }
+        },
+        "Karaköprü": {
+          "coords": {
+            "lat": 38.795292,
+            "lng": 37.205082
+          }
+        },
+        "Eyyübiye": {
+          "coords": {
+            "lat": 38.7897698,
+            "lng": 37.1505781
+          }
+        },
+        "Haliliye": {
+          "coords": {
+            "lat": 38.8192428,
+            "lng": 37.1745781
+          }
+        },
+        "Akçakale": {
+          "coords": {
+            "lat": 38.9500872,
+            "lng": 36.7122323
+          }
+        }
+      }
+    },
+    "Siirt": {
+      "coords": {
+        "lat": 41.93984,
+        "lng": 37.931282
+      },
+      "administrative_area_level_2s": {
+        "Eruh": {
+          "coords": {
+            "lat": 42.1800849,
+            "lng": 37.7492841
+          }
+        },
+        "Kurtalan": {
+          "coords": {
+            "lat": 41.7031855,
+            "lng": 37.92723
+          }
+        },
+        "Pervari": {
+          "coords": {
+            "lat": 42.5482815,
+            "lng": 37.9322657
+          }
+        },
+        "Baykan": {
+          "coords": {
+            "lat": 41.7848188,
+            "lng": 38.163617
+          }
+        },
+        "Şirvan": {
+          "coords": {
+            "lat": 42.0298749,
+            "lng": 38.0612331
+          }
+        },
+        "Tillo": {
+          "coords": {
+            "lat": 42.0122767,
+            "lng": 37.9495782
+          }
+        }
+      }
+    },
+    "Şırnak": {
+      "coords": {
+        "lat": 42.4605665,
+        "lng": 37.519248
+      },
+      "administrative_area_level_2s": {
+        "Cizre": {
+          "coords": {
+            "lat": 42.1913218,
+            "lng": 37.3259189
+          }
+        },
+        "Silopi": {
+          "coords": {
+            "lat": 42.4706344,
+            "lng": 37.249296
+          }
+        },
+        "Uludere": {
+          "coords": {
+            "lat": 42.8534454,
+            "lng": 37.4455179
+          }
+        },
+        "İdil": {
+          "coords": {
+            "lat": 41.8917279,
+            "lng": 37.3417239
+          }
+        },
+        "Güçlükonak": {
+          "coords": {
+            "lat": 41.911326,
+            "lng": 37.4712526
+          }
+        },
+        "Beytüşşebap": {
+          "coords": {
+            "lat": 43.1670276,
+            "lng": 37.5704563
+          }
+        }
+      }
+    },
+    "Isparta": {
+      "coords": {
+        "lat": 30.5556933,
+        "lng": 37.77035
+      },
+      "administrative_area_level_2s": {
+        "Eğirdir": {
+          "coords": {
+            "lat": 30.8490411,
+            "lng": 37.8741257
+          }
+        },
+        "Keçiborlu": {
+          "coords": {
+            "lat": 30.3003582,
+            "lng": 37.9448799
+          }
+        },
+        "Gelendost": {
+          "coords": {
+            "lat": 31.0146867,
+            "lng": 38.1219635
+          }
+        },
+        "Yalvaç": {
+          "coords": {
+            "lat": 31.1812834,
+            "lng": 38.2992052
+          }
+        },
+        "Senirkent": {
+          "coords": {
+            "lat": 30.5487675,
+            "lng": 38.1062908
+          }
+        },
+        "Uluborlu": {
+          "coords": {
+            "lat": 30.4489623,
+            "lng": 38.0783825
+          }
+        },
+        "Atabey": {
+          "coords": {
+            "lat": 30.6380574,
+            "lng": 37.950625
+          }
+        },
+        "Şarkîkaraağaç": {
+          "coords": {
+            "lat": 31.3663889,
+            "lng": 38.0794444
+          }
+        },
+        "Aksu": {
+          "coords": {
+            "lat": 31.0711111,
+            "lng": 37.7988889
+          }
+        },
+        "Sütçüler": {
+          "coords": {
+            "lat": 30.9805605,
+            "lng": 37.4949942
+          }
+        },
+        "Gönen": {
+          "coords": {
+            "lat": 30.5128626,
+            "lng": 37.9575448
+          }
+        },
+        "Yenişarbademli": {
+          "coords": {
+            "lat": 31.3863889,
+            "lng": 37.7077778
+          }
+        }
+      }
+    },
+    "Eşme": {
+      "coords": {
+        "lat": 28.9670144,
+        "lng": 38.3998673
+      },
+      "administrative_area_level_2s": {}
+    },
+    "İzmir": {
+      "coords": {
+        "lat": 27.144474,
+        "lng": 38.4153421
+      },
+      "administrative_area_level_2s": {
+        "Menemen": {
+          "coords": {
+            "lat": 27.0752107,
+            "lng": 38.6034975
+          }
+        },
+        "Kınık": {
+          "coords": {
+            "lat": 27.3823988,
+            "lng": 39.0858114
+          }
+        },
+        "Kiraz": {
+          "coords": {
+            "lat": 28.2065545,
+            "lng": 38.2286773
+          }
+        },
+        "Ödemiş": {
+          "coords": {
+            "lat": 27.9751807,
+            "lng": 38.2313406
+          }
+        },
+        "Tire": {
+          "coords": {
+            "lat": 27.7339707,
+            "lng": 38.088165
+          }
+        },
+        "Bayındır": {
+          "coords": {
+            "lat": 27.6472818,
+            "lng": 38.2225415
+          }
+        },
+        "Selçuk": {
+          "coords": {
+            "lat": 27.3693261,
+            "lng": 37.9473335
+          }
+        },
+        "Torbalı": {
+          "coords": {
+            "lat": 27.3628389,
+            "lng": 38.1523133
+          }
+        },
+        "Menderes": {
+          "coords": {
+            "lat": 27.1341859,
+            "lng": 38.2503847
+          }
+        },
+        "Seferihisar": {
+          "coords": {
+            "lat": 26.8391,
+            "lng": 38.1983302
+          }
+        },
+        "Dikili": {
+          "coords": {
+            "lat": 26.8906516,
+            "lng": 39.0738718
+          }
+        },
+        "Narlıdere": {
+          "coords": {
+            "lat": 26.9906269,
+            "lng": 38.3924414
+          }
+        },
+        "Güzelbahçe": {
+          "coords": {
+            "lat": 26.8861159,
+            "lng": 38.3628877
+          }
+        },
+        "Karaburun": {
+          "coords": {
+            "lat": 26.5147243,
+            "lng": 38.6464464
+          }
+        },
+        "Çeşme": {
+          "coords": {
+            "lat": 26.3028561,
+            "lng": 38.324418
+          }
+        },
+        "Beydağ": {
+          "coords": {
+            "lat": 28.20843,
+            "lng": 38.0859301
+          }
+        },
+        "Kemalpaşa": {
+          "coords": {
+            "lat": 27.4152158,
+            "lng": 38.4278291
+          }
+        },
+        "Buca": {
+          "coords": {
+            "lat": 27.1768301,
+            "lng": 38.3753187
+          }
+        },
+        "Aliağa": {
+          "coords": {
+            "lat": 26.9729821,
+            "lng": 38.8009721
+          }
+        },
+        "Balçova": {
+          "coords": {
+            "lat": 27.046805,
+            "lng": 38.3923982
+          }
+        },
+        "Gaziemir": {
+          "coords": {
+            "lat": 27.131535,
+            "lng": 38.3275123
+          }
+        },
+        "Foça": {
+          "coords": {
+            "lat": 26.7549935,
+            "lng": 38.6693558
+          }
+        },
+        "Bornova": {
+          "coords": {
+            "lat": 27.2205553,
+            "lng": 38.4664004
+          }
+        },
+        "Karabağlar": {
+          "coords": {
+            "lat": 27.1045922,
+            "lng": 38.3697709
+          }
+        },
+        "Çiğli": {
+          "coords": {
+            "lat": 27.0662222,
+            "lng": 38.4906331
+          }
+        },
+        "Karşıyaka": {
+          "coords": {
+            "lat": 27.1149899,
+            "lng": 38.4590925
+          }
+        },
+        "Bergama": {
+          "coords": {
+            "lat": 27.1772346,
+            "lng": 39.1187305
+          }
+        },
+        "Bayraklı": {
+          "coords": {
+            "lat": 27.1426529,
+            "lng": 38.4784538
+          }
+        },
+        "Konak": {
+          "coords": {
+            "lat": 27.1294534,
+            "lng": 38.410958
+          }
+        },
+        "Urla": {
+          "coords": {
+            "lat": 26.7673244,
+            "lng": 38.3239411
+          }
+        }
+      }
+    },
+    "Antalya": {
+      "coords": {
+        "lat": 30.6937117,
+        "lng": 36.9008783
+      },
+      "administrative_area_level_2s": {
+        "Korkuteli": {
+          "coords": {
+            "lat": 30.1970497,
+            "lng": 37.0666523
+          }
+        },
+        "Akseki": {
+          "coords": {
+            "lat": 31.7908673,
+            "lng": 37.0473617
+          }
+        },
+        "Kemer": {
+          "coords": {
+            "lat": 30.5618498,
+            "lng": 36.6019034
+          }
+        },
+        "Manavgat": {
+          "coords": {
+            "lat": 31.4406667,
+            "lng": 36.7870124
+          }
+        },
+        "Demre": {
+          "coords": {
+            "lat": 30.008263,
+            "lng": 36.2422046
+          }
+        },
+        "Alanya": {
+          "coords": {
+            "lat": 32.0089127,
+            "lng": 36.5463756
+          }
+        },
+        "Kumluca": {
+          "coords": {
+            "lat": 30.2875296,
+            "lng": 36.3657472
+          }
+        },
+        "Elmalı": {
+          "coords": {
+            "lat": 29.917856,
+            "lng": 36.7384586
+          }
+        },
+        "Finike": {
+          "coords": {
+            "lat": 30.1445334,
+            "lng": 36.3046148
+          }
+        },
+        "Gazipaşa": {
+          "coords": {
+            "lat": 32.3144983,
+            "lng": 36.2684938
+          }
+        },
+        "İbradı": {
+          "coords": {
+            "lat": 31.5969351,
+            "lng": 37.0969444
+          }
+        },
+        "Serik": {
+          "coords": {
+            "lat": 31.1011205,
+            "lng": 36.9165327
+          }
+        },
+        "Göynük": {
+          "coords": {
+            "lat": 30.5502475,
+            "lng": 36.6670514
+          }
+        },
+        "Döşemealtı": {
+          "coords": {
+            "lat": 30.600941,
+            "lng": 37.0233047
+          }
+        },
+        "Gündoğmuş": {
+          "coords": {
+            "lat": 31.9983333,
+            "lng": 36.814338
+          }
+        },
+        "Kepez": {
+          "coords": {
+            "lat": 30.674014,
+            "lng": 36.9205137
+          }
+        },
+        "Aksu": {
+          "coords": {
+            "lat": 30.847705,
+            "lng": 36.9475051
+          }
+        },
+        "Konyaaltı": {
+          "coords": {
+            "lat": 30.6327669,
+            "lng": 36.8689803
+          }
+        },
+        "Muratpaşa": {
+          "coords": {
+            "lat": 30.7086446,
+            "lng": 36.8876415
+          }
+        },
+        "Kadriye": {
+          "coords": {
+            "lat": 31.0094995,
+            "lng": 36.8845956
+          }
+        },
+        "Kaş": {
+          "coords": {
+            "lat": 29.6413365,
+            "lng": 36.1993752
+          }
+        }
+      }
+    },
+    "Trabzon": {
+      "coords": {
+        "lat": 39.7253106,
+        "lng": 41.0052391
+      },
+      "administrative_area_level_2s": {
+        "Çarşıbaşı": {
+          "coords": {
+            "lat": 39.3808615,
+            "lng": 41.0823971
+          }
+        },
+        "Vakfıkebir": {
+          "coords": {
+            "lat": 39.2753393,
+            "lng": 41.0477232
+          }
+        },
+        "Beşikdüzü": {
+          "coords": {
+            "lat": 39.2306124,
+            "lng": 41.0529432
+          }
+        },
+        "Sürmene": {
+          "coords": {
+            "lat": 40.1153042,
+            "lng": 40.9131495
+          }
+        },
+        "Arsin": {
+          "coords": {
+            "lat": 39.93207,
+            "lng": 40.9532112
+          }
+        },
+        "Yomra": {
+          "coords": {
+            "lat": 39.8596213,
+            "lng": 40.9547906
+          }
+        },
+        "Maçka": {
+          "coords": {
+            "lat": 39.6107009,
+            "lng": 40.812287
+          }
+        },
+        "Çaykara - Kadahor": {
+          "coords": {
+            "lat": 40.2414413,
+            "lng": 40.7496923
+          }
+        },
+        "Hayrat": {
+          "coords": {
+            "lat": 40.3691013,
+            "lng": 40.889165
+          }
+        },
+        "Köprübaşı": {
+          "coords": {
+            "lat": 40.1234488,
+            "lng": 40.8084223
+          }
+        },
+        "Of": {
+          "coords": {
+            "lat": 40.2685683,
+            "lng": 40.9452592
+          }
+        },
+        "Şalpazarı": {
+          "coords": {
+            "lat": 39.1940784,
+            "lng": 40.9416344
+          }
+        },
+        "Tonya": {
+          "coords": {
+            "lat": 39.2914139,
+            "lng": 40.8877618
+          }
+        },
+        "Akçaabat": {
+          "coords": {
+            "lat": 39.5726753,
+            "lng": 41.0205882
+          }
+        },
+        "Dernekpazarı - Kondu": {
+          "coords": {
+            "lat": 40.2476449,
+            "lng": 40.7991562
+          }
+        }
+      }
+    },
+    "Bursa": {
+      "coords": {
+        "lat": 29.0667635,
+        "lng": 40.1827061
+      },
+      "administrative_area_level_2s": {
+        "Orhangazi": {
+          "coords": {
+            "lat": 29.3081543,
+            "lng": 40.4921219
+          }
+        },
+        "Gemlik": {
+          "coords": {
+            "lat": 29.1570698,
+            "lng": 40.4301652
+          }
+        },
+        "İnegöl": {
+          "coords": {
+            "lat": 29.510083,
+            "lng": 40.0800844
+          }
+        },
+        "Karacabey": {
+          "coords": {
+            "lat": 28.361454,
+            "lng": 40.2127591
+          }
+        },
+        "Mustafakemalpaşa": {
+          "coords": {
+            "lat": 28.4097767,
+            "lng": 40.0369372
+          }
+        },
+        "Yenişehir": {
+          "coords": {
+            "lat": 29.6521948,
+            "lng": 40.2626316
+          }
+        },
+        "İznik": {
+          "coords": {
+            "lat": 29.7223732,
+            "lng": 40.4303445
+          }
+        },
+        "Mudanya": {
+          "coords": {
+            "lat": 28.8837929,
+            "lng": 40.3752582
+          }
+        },
+        "Orhaneli": {
+          "coords": {
+            "lat": 28.9866861,
+            "lng": 39.9026561
+          }
+        },
+        "Gürsu": {
+          "coords": {
+            "lat": 29.1914988,
+            "lng": 40.2172896
+          }
+        },
+        "Kurşunlu": {
+          "coords": {
+            "lat": 29.0246439,
+            "lng": 40.3609326
+          }
+        },
+        "Büyükorhan": {
+          "coords": {
+            "lat": 28.88541,
+            "lng": 39.770909
+          }
+        },
+        "Harmancık": {
+          "coords": {
+            "lat": 29.1533522,
+            "lng": 39.6769446
+          }
+        },
+        "Keles": {
+          "coords": {
+            "lat": 29.2341651,
+            "lng": 39.9128869
+          }
+        },
+        "Nilüfer": {
+          "coords": {
+            "lat": 28.9627863,
+            "lng": 40.2129489
+          }
+        },
+        "Osmangazi": {
+          "coords": {
+            "lat": 29.0612098,
+            "lng": 40.1982203
+          }
+        },
+        "Yıldırım": {
+          "coords": {
+            "lat": 29.0867812,
+            "lng": 40.1903485
+          }
+        },
+        "Kestel": {
+          "coords": {
+            "lat": 29.2150469,
+            "lng": 40.195807
+          }
+        }
+      }
+    },
+    "Tekirdağ": {
+      "coords": {
+        "lat": 27.5158544,
+        "lng": 40.9795272
+      },
+      "administrative_area_level_2s": {
+        "Çerkezköy": {
+          "coords": {
+            "lat": 27.9995466,
+            "lng": 41.2863109
+          }
+        },
+        "Çorlu": {
+          "coords": {
+            "lat": 27.8041066,
+            "lng": 41.1590875
+          }
+        },
+        "Malkara": {
+          "coords": {
+            "lat": 26.9023798,
+            "lng": 40.8930819
+          }
+        },
+        "Marmara Ereğlisi": {
+          "coords": {
+            "lat": 27.9482553,
+            "lng": 40.970074
+          }
+        },
+        "Muratlı": {
+          "coords": {
+            "lat": 27.5015106,
+            "lng": 41.1722934
+          }
+        },
+        "Saray": {
+          "coords": {
+            "lat": 27.9223596,
+            "lng": 41.4434483
+          }
+        },
+        "Şarköy": {
+          "coords": {
+            "lat": 27.1154523,
+            "lng": 40.6130271
+          }
+        },
+        "Marmaracık": {
+          "coords": {
+            "lat": 27.753389,
+            "lng": 41.2074859
+          }
+        },
+        "Kapaklı": {
+          "coords": {
+            "lat": 27.974793,
+            "lng": 41.330528
+          }
+        },
+        "Hayrabolu": {
+          "coords": {
+            "lat": 27.1081765,
+            "lng": 41.2146709
+          }
+        },
+        "Ergene": {
+          "coords": {
+            "lat": 27.7703869,
+            "lng": 41.1891883
+          }
+        }
+      }
+    },
+    "İstanbul": {
+      "coords": {
+        "lat": 28.9651646,
+        "lng": 41.0096334
+      },
+      "administrative_area_level_2s": {
+        "Bakırköy": {
+          "coords": {
+            "lat": 28.8737212,
+            "lng": 40.9779738
+          }
+        },
+        "Büyükçekmece": {
+          "coords": {
+            "lat": 28.5957386,
+            "lng": 41.0162234
+          }
+        },
+        "Fatih": {
+          "coords": {
+            "lat": 28.9478024,
+            "lng": 41.019297
+          }
+        },
+        "Küçükçekmece": {
+          "coords": {
+            "lat": 28.781565,
+            "lng": 41.000121
+          }
+        },
+        "Silivri": {
+          "coords": {
+            "lat": 28.2469222,
+            "lng": 41.0732043
+          }
+        },
+        "Zeytinburnu": {
+          "coords": {
+            "lat": 28.9037425,
+            "lng": 40.9881355
+          }
+        },
+        "Üsküdar": {
+          "coords": {
+            "lat": 29.0326345,
+            "lng": 41.0293083
+          }
+        },
+        "Kağıthane": {
+          "coords": {
+            "lat": 28.9736295,
+            "lng": 41.0901897
+          }
+        },
+        "Esenyurt": {
+          "coords": {
+            "lat": 28.6794324,
+            "lng": 41.0345039
+          }
+        },
+        "Bağcılar": {
+          "coords": {
+            "lat": 28.858102,
+            "lng": 41.0337212
+          }
+        },
+        "Şile": {
+          "coords": {
+            "lat": 29.6125216,
+            "lng": 41.1744067
+          }
+        },
+        "Eyüp": {
+          "coords": {
+            "lat": 28.9253241,
+            "lng": 41.0460444
+          }
+        },
+        "Şişli": {
+          "coords": {
+            "lat": 28.9775091,
+            "lng": 41.057954
+          }
+        },
+        "Beşiktaş": {
+          "coords": {
+            "lat": 29.0171908,
+            "lng": 41.0545745
+          }
+        },
+        "Beykoz": {
+          "coords": {
+            "lat": 29.1083151,
+            "lng": 41.1239355
+          }
+        },
+        "Ümraniye": {
+          "coords": {
+            "lat": 29.090073,
+            "lng": 41.0222688
+          }
+        },
+        "Maltepe": {
+          "coords": {
+            "lat": 29.150517,
+            "lng": 40.9241902
+          }
+        },
+        "Kartal": {
+          "coords": {
+            "lat": 29.1724999,
+            "lng": 40.9033333
+          }
+        },
+        "Tuzla": {
+          "coords": {
+            "lat": 29.3008332,
+            "lng": 40.8166668
+          }
+        },
+        "Arnavutköy": {
+          "coords": {
+            "lat": 28.7407289,
+            "lng": 41.184182
+          }
+        },
+        "Adalar": {
+          "coords": {
+            "lat": 29.0883376,
+            "lng": 40.8738033
+          }
+        },
+        "Başakşehir": {
+          "coords": {
+            "lat": 28.8004978,
+            "lng": 41.0825564
+          }
+        },
+        "Bayrampaşa": {
+          "coords": {
+            "lat": 28.9129464,
+            "lng": 41.0338626
+          }
+        },
+        "Beylikdüzü": {
+          "coords": {
+            "lat": 28.643353,
+            "lng": 40.9947022
+          }
+        },
+        "Çatalca": {
+          "coords": {
+            "lat": 28.4619692,
+            "lng": 41.1435632
+          }
+        },
+        "Çekmeköy": {
+          "coords": {
+            "lat": 29.1797258,
+            "lng": 41.0354509
+          }
+        },
+        "Esenler": {
+          "coords": {
+            "lat": 28.8501073,
+            "lng": 41.0498544
+          }
+        },
+        "Gaziosmanpaşa": {
+          "coords": {
+            "lat": 28.9355854,
+            "lng": 41.0631527
+          }
+        },
+        "Güngören": {
+          "coords": {
+            "lat": 28.8886256,
+            "lng": 41.0165007
+          }
+        },
+        "Pendik": {
+          "coords": {
+            "lat": 29.273428,
+            "lng": 40.8784694
+          }
+        },
+        "Sancaktepe": {
+          "coords": {
+            "lat": 29.2123325,
+            "lng": 41.0104897
+          }
+        },
+        "Sultanbeyli": {
+          "coords": {
+            "lat": 29.2614863,
+            "lng": 40.9675302
+          }
+        },
+        "Bahçelievler": {
+          "coords": {
+            "lat": 28.8637451,
+            "lng": 41.0002895
+          }
+        },
+        "Beyoğlu": {
+          "coords": {
+            "lat": 28.9736808,
+            "lng": 41.0284233
+          }
+        },
+        "Kadıköy": {
+          "coords": {
+            "lat": 29.074825,
+            "lng": 40.9768636
+          }
+        },
+        "Sarıyer": {
+          "coords": {
+            "lat": 29.0306735,
+            "lng": 41.1662744
+          }
+        },
+        "Avcılar": {
+          "coords": {
+            "lat": 28.7175465,
+            "lng": 40.9801353
+          }
+        },
+        "Ataşehir": {
+          "coords": {
+            "lat": 29.1082404,
+            "lng": 40.9850249
+          }
+        },
+        "Sultangazi": {
+          "coords": {
+            "lat": 28.8613138,
+            "lng": 41.1081703
+          }
+        }
+      }
+    },
+    "Bolu": {
+      "coords": {
+        "lat": 31.6128194,
+        "lng": 40.73454
+      },
+      "administrative_area_level_2s": {
+        "Gerede": {
+          "coords": {
+            "lat": 32.2009075,
+            "lng": 40.7987548
+          }
+        },
+        "Mudurnu": {
+          "coords": {
+            "lat": 31.2112312,
+            "lng": 40.4656959
+          }
+        },
+        "Seben": {
+          "coords": {
+            "lat": 31.5729006,
+            "lng": 40.4116012
+          }
+        },
+        "Dörtdivan": {
+          "coords": {
+            "lat": 32.0634646,
+            "lng": 40.7191214
+          }
+        },
+        "Göynük": {
+          "coords": {
+            "lat": 30.7866167,
+            "lng": 40.3983169
+          }
+        },
+        "Kıbrıscık": {
+          "coords": {
+            "lat": 31.852631,
+            "lng": 40.4071242
+          }
+        },
+        "Mengen": {
+          "coords": {
+            "lat": 32.0758958,
+            "lng": 40.9391873
+          }
+        },
+        "Yeniçağa": {
+          "coords": {
+            "lat": 32.036929,
+            "lng": 40.7697867
+          }
+        }
+      }
+    },
+    "Sakarya": {
+      "coords": {
+        "lat": 30.4038668,
+        "lng": 40.7721863
+      },
+      "administrative_area_level_2s": {
+        "Adapazarı": {
+          "coords": {
+            "lat": 30.4004356,
+            "lng": 40.7830229
+          }
+        },
+        "Hendek": {
+          "coords": {
+            "lat": 30.7451628,
+            "lng": 40.7967894
+          }
+        },
+        "Akyazı": {
+          "coords": {
+            "lat": 30.6249199,
+            "lng": 40.6837398
+          }
+        },
+        "Ferizli": {
+          "coords": {
+            "lat": 30.4844279,
+            "lng": 40.9403425
+          }
+        },
+        "Geyve": {
+          "coords": {
+            "lat": 30.2966264,
+            "lng": 40.5026482
+          }
+        },
+        "Karapürçek": {
+          "coords": {
+            "lat": 30.5365262,
+            "lng": 40.6423352
+          }
+        },
+        "Kaynarca": {
+          "coords": {
+            "lat": 30.3056001,
+            "lng": 41.035108
+          }
+        },
+        "Kocaali": {
+          "coords": {
+            "lat": 30.8518228,
+            "lng": 41.051227
+          }
+        },
+        "Pamukova": {
+          "coords": {
+            "lat": 30.1679594,
+            "lng": 40.5080478
+          }
+        },
+        "Söğütlü": {
+          "coords": {
+            "lat": 30.4712853,
+            "lng": 40.9041109
+          }
+        },
+        "Taraklı": {
+          "coords": {
+            "lat": 30.4941854,
+            "lng": 40.3980212
+          }
+        },
+        "Arifiye": {
+          "coords": {
+            "lat": 30.3613387,
+            "lng": 40.7124406
+          }
+        },
+        "Erenler": {
+          "coords": {
+            "lat": 30.4109224,
+            "lng": 40.7543472
+          }
+        },
+        "Serdivan": {
+          "coords": {
+            "lat": 30.3600542,
+            "lng": 40.7697287
+          }
+        },
+        "Karasu": {
+          "coords": {
+            "lat": 30.690577,
+            "lng": 41.097812
+          }
+        },
+        "Sapanca": {
+          "coords": {
+            "lat": 30.2655409,
+            "lng": 40.6920948
+          }
+        }
+      }
+    }
+  }
+}
