@@ -6,7 +6,7 @@ var router = express.Router();
 
 var capitalizeFirstLetter = function (str) {
   var firstChar = str.charAt(0);
-  if (firstChar === 'i') {
+  if (firstChar === 'i' || firstChar === 'İ') {
     return 'İ' + str.slice(1);
   }
 
