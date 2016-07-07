@@ -4,11 +4,12 @@ var _ = require('lodash');
 var fs = require('fs');
 var router = express.Router();
 
-function capitalizeFirstLetter = (str) => {
+function capitalizeFirstLetter = function (str) {
   const firstChar = str.charAt(0);
   if (firstChar === 'i') {
-    return `İ${str.slice(1)}`;
+    return 'İ' + str.slice(1);
   }
+
   return str.charAt(0).toUpperCase() + str.slice(1);
 };
 
