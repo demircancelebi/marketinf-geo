@@ -16,7 +16,11 @@
     "lodash": "^4.13.1",
     "morgan": "^1.6.1",
     "query-overpass": "^1.1.0",
-    "serve-favicon": "^2.3.0"
+    "request": "^2.72.0",
+    "serve-favicon": "^2.3.0",
+    "socks5-http-client": "^1.0.2",
+    "tor-request": "^1.0.5",
+    "torrequest": "0.0.2"
   },
   "devDependencies": {
     "grunt": "^1.0.1",

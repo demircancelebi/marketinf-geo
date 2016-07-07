@@ -20,38 +20,31 @@ GET: /countries/:code/:area - Returns the geographical information of the specif
 - [Ruby](https://www.ruby-lang.org) and then `gem install sass`
 - [Grunt](http://gruntjs.com/) (`npm install --global grunt-cli`)
 - [MongoDB](https://www.mongodb.org/) - Keep a running daemon with `mongod`
+- [Tor] sudo port install tor
 
 ### Developing
 
 1. Run `npm install` to install server dependencies.
 
-2. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
+2. Run `grunt` to start the development server. It should automatically open the client in your browser when ready.
 
 ### Adding new countries to DB
 
-  Run `node ./tool/index.js Türkiye TR city town`
+  1. Edit /opt/local/etc/tor/torrc
+  Add line MaxCircuitDirtiness 100
+
+  2. Run tor
+
+  3. Run `node ./tool/index.js Türkiye 2 4 6`
+
 
   Script parameters:
 
   1. Country name in its native language.
-  2. Country code.
-  3. Name of Administrative area level 1.
-  4. Name of Administrative area level 2.
+  2. Administrative area level of the country.
+  3. Administrative area level of the cities.
+  4. Administrative area level of the districts.
 
   * You can check the administrative area names by trying various queries in Overpass API.
-  * Go to https://overpass-turbo.eu/
-  * Change "city" and "town fields", try to find for the specified country
-
-  ```
-  [out:json];
-  area[name="Türkiye"];
-  (node[place="city"](area););
-  out;
-  ```
-
-  ```
-  [out:json];
-  area[name="İstanbul"];
-  (node[place="town"](area););
-  out;
-  ```
+  * Go to www.openstreetmap.org
+  * Find the "Relation" entities and record their "admin_level"'s
