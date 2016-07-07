@@ -4,7 +4,7 @@ var _ = require('lodash');
 var fs = require('fs');
 var router = express.Router();
 
-function capitalizeFirstLetter = function (str) {
+var capitalizeFirstLetter = function (str) {
   const firstChar = str.charAt(0);
   if (firstChar === 'i') {
     return 'İ' + str.slice(1);
