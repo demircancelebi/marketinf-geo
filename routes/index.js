@@ -4,10 +4,11 @@ var _ = require('lodash');
 var fs = require('fs');
 var router = express.Router();
 
-var capitalizeFirstLetter = function (str) {
+var capitalizeFirstLetter = function (code, str) {
   var firstChar = str.charAt(0);
-  if (firstChar === 'i' || firstChar === 'İ') {
-    return decodeURIComponent('İ' + str.slice(1));
+  if (code === 'TR' && (firstChar === 'i')) {
+    var final = 'İ' + str.slice(-str.length + 1);
+    return decodeURIComponent(final);
   }
 
   return decodeURIComponent(str.charAt(0).toUpperCase() + str.slice(1));
@@ -63,8 +64,8 @@ router.get('/countries/:code', function (req, res) {
 
 router.get('/countries/:code/:area', function (req, res) {
   var code = req.params.code.toUpperCase();
-  var area = req.params.area.toLowerCase();
-  area = capitalizeFirstLetter(area);
+  var area = req.params.area;
+  area = capitalizeFirstLetter(code, area);
 
   jsonfile.readFile('./data/' + code + '.json', function (err, content) {
     if (err || !content) {
