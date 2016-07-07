@@ -17,7 +17,7 @@ var capitalizeFirstLetter = function (code, str) {
 /* GET home page. */
 
 router.get('/', function(req, res) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Marketinf-Geo' });
 });
 
 
