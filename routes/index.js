@@ -7,10 +7,10 @@ var router = express.Router();
 var capitalizeFirstLetter = function (str) {
   var firstChar = str.charAt(0);
   if (firstChar === 'i' || firstChar === 'İ') {
-    return 'İ' + str.slice(1);
+    return decodeURIComponent('İ' + str.slice(1));
   }
 
-  return str.charAt(0).toUpperCase() + str.slice(1);
+  return decodeURIComponent(str.charAt(0).toUpperCase() + str.slice(1));
 };
 
 /* GET home page. */
